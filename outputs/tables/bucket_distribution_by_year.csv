@@ -1,0 +1,188 @@
+year,Bucket,Count,Percentage
+2006,Crop Protection & Inputs,95,84.82
+2006,Crop Production Practices,12,10.71
+2006,Livestock & Dairy,3,2.68
+2006,Others,2,1.79
+2007,Crop Protection & Inputs,41,43.16
+2007,Crop Production Practices,30,31.58
+2007,Machinery & Infrastructure,7,7.37
+2007,Others,7,7.37
+2007,Markets & Post-Harvest,5,5.26
+2007,Weather & Climate,4,4.21
+2007,Livestock & Dairy,1,1.05
+2008,Crop Protection & Inputs,84,54.9
+2008,Crop Production Practices,20,13.07
+2008,Others,18,11.76
+2008,Markets & Post-Harvest,17,11.11
+2008,Weather & Climate,9,5.88
+2008,Government Schemes & Insurance,3,1.96
+2008,Livestock & Dairy,2,1.31
+2009,Others,235774,39.94
+2009,Crop Protection & Inputs,210574,35.67
+2009,Crop Production Practices,62259,10.55
+2009,Weather & Climate,35207,5.96
+2009,Markets & Post-Harvest,19033,3.22
+2009,Livestock & Dairy,14436,2.45
+2009,Government Schemes & Insurance,11611,1.97
+2009,Machinery & Infrastructure,1490,0.25
+2010,Crop Protection & Inputs,412447,59.54
+2010,Crop Production Practices,147500,21.29
+2010,Others,49008,7.08
+2010,Weather & Climate,33348,4.81
+2010,Markets & Post-Harvest,25447,3.67
+2010,Government Schemes & Insurance,10428,1.51
+2010,Machinery & Infrastructure,8060,1.16
+2010,Livestock & Dairy,6380,0.92
+2010,"Training, Nursery & Horticulture",52,0.01
+2011,Crop Protection & Inputs,420689,63.18
+2011,Crop Production Practices,127040,19.08
+2011,Others,46835,7.03
+2011,Weather & Climate,29253,4.39
+2011,Markets & Post-Harvest,22610,3.4
+2011,Government Schemes & Insurance,10079,1.51
+2011,Livestock & Dairy,4685,0.7
+2011,Machinery & Infrastructure,4655,0.7
+2011,"Training, Nursery & Horticulture",5,0.0
+2012,Crop Protection & Inputs,619425,56.8
+2012,Crop Production Practices,183008,16.78
+2012,Others,105063,9.63
+2012,Weather & Climate,103915,9.53
+2012,Markets & Post-Harvest,50698,4.65
+2012,Government Schemes & Insurance,17312,1.59
+2012,Livestock & Dairy,9572,0.88
+2012,Machinery & Infrastructure,1483,0.14
+2013,Crop Protection & Inputs,843486,42.26
+2013,Unclassified,473910,23.74
+2013,Crop Production Practices,268320,13.44
+2013,Weather & Climate,200536,10.05
+2013,Markets & Post-Harvest,75690,3.79
+2013,Others,63862,3.2
+2013,Government Schemes & Insurance,37605,1.88
+2013,Machinery & Infrastructure,18750,0.94
+2013,Livestock & Dairy,8906,0.45
+2013,Fisheries & Aquaculture,2912,0.15
+2013,"Training, Nursery & Horticulture",1863,0.09
+2014,Crop Protection & Inputs,1014837,37.92
+2014,Weather & Climate,599009,22.38
+2014,Unclassified,564075,21.08
+2014,Crop Production Practices,305495,11.42
+2014,Markets & Post-Harvest,78701,2.94
+2014,Government Schemes & Insurance,59771,2.23
+2014,Machinery & Infrastructure,32655,1.22
+2014,Livestock & Dairy,7949,0.3
+2014,Fisheries & Aquaculture,6719,0.25
+2014,Others,5062,0.19
+2014,"Training, Nursery & Horticulture",1866,0.07
+2015,Crop Protection & Inputs,1452613,39.2
+2015,Weather & Climate,1443270,38.95
+2015,Crop Production Practices,390822,10.55
+2015,Government Schemes & Insurance,199312,5.38
+2015,Markets & Post-Harvest,153828,4.15
+2015,Machinery & Infrastructure,39077,1.05
+2015,Others,9704,0.26
+2015,Livestock & Dairy,8577,0.23
+2015,Fisheries & Aquaculture,5747,0.16
+2015,"Training, Nursery & Horticulture",2459,0.07
+2015,Unclassified,72,0.0
+2016,Weather & Climate,1973884,47.08
+2016,Crop Protection & Inputs,1302231,31.06
+2016,Crop Production Practices,508323,12.12
+2016,Government Schemes & Insurance,214805,5.12
+2016,Markets & Post-Harvest,142066,3.39
+2016,Machinery & Infrastructure,22192,0.53
+2016,Others,12449,0.3
+2016,Livestock & Dairy,8214,0.2
+2016,Fisheries & Aquaculture,4677,0.11
+2016,"Training, Nursery & Horticulture",3933,0.09
+2017,Weather & Climate,2223893,55.55
+2017,Crop Protection & Inputs,965669,24.12
+2017,Crop Production Practices,456813,11.41
+2017,Government Schemes & Insurance,183613,4.59
+2017,Markets & Post-Harvest,122379,3.06
+2017,Machinery & Infrastructure,20475,0.51
+2017,Livestock & Dairy,12091,0.3
+2017,Others,10050,0.25
+2017,Fisheries & Aquaculture,5287,0.13
+2017,"Training, Nursery & Horticulture",3247,0.08
+2018,Weather & Climate,1720987,53.84
+2018,Crop Protection & Inputs,677652,21.2
+2018,Unclassified,295446,9.24
+2018,Crop Production Practices,249376,7.8
+2018,Government Schemes & Insurance,141433,4.42
+2018,Markets & Post-Harvest,81186,2.54
+2018,Machinery & Infrastructure,11992,0.38
+2018,Others,7035,0.22
+2018,Livestock & Dairy,5557,0.17
+2018,"Training, Nursery & Horticulture",2996,0.09
+2018,Fisheries & Aquaculture,2981,0.09
+2019,Weather & Climate,2025248,45.65
+2019,Crop Protection & Inputs,1287076,29.01
+2019,Government Schemes & Insurance,595374,13.42
+2019,Crop Production Practices,353249,7.96
+2019,Markets & Post-Harvest,128687,2.9
+2019,Machinery & Infrastructure,16767,0.38
+2019,Others,15186,0.34
+2019,Livestock & Dairy,5403,0.12
+2019,"Training, Nursery & Horticulture",5209,0.12
+2019,Fisheries & Aquaculture,4471,0.1
+2020,Weather & Climate,916249,33.07
+2020,Crop Protection & Inputs,913152,32.95
+2020,Government Schemes & Insurance,553973,19.99
+2020,Crop Production Practices,269474,9.73
+2020,Markets & Post-Harvest,85860,3.1
+2020,Machinery & Infrastructure,11675,0.42
+2020,Others,10231,0.37
+2020,"Training, Nursery & Horticulture",4379,0.16
+2020,Livestock & Dairy,2967,0.11
+2020,Fisheries & Aquaculture,2957,0.11
+2021,Weather & Climate,671918,34.75
+2021,Crop Protection & Inputs,608833,31.49
+2021,Government Schemes & Insurance,345164,17.85
+2021,Crop Production Practices,211660,10.95
+2021,Markets & Post-Harvest,78962,4.08
+2021,Machinery & Infrastructure,6342,0.33
+2021,Others,5113,0.26
+2021,"Training, Nursery & Horticulture",2539,0.13
+2021,Livestock & Dairy,1647,0.09
+2021,Fisheries & Aquaculture,1377,0.07
+2022,Weather & Climate,1133949,34.53
+2022,Crop Protection & Inputs,956482,29.13
+2022,Government Schemes & Insurance,727793,22.16
+2022,Crop Production Practices,291943,8.89
+2022,Markets & Post-Harvest,148458,4.52
+2022,Machinery & Infrastructure,10666,0.32
+2022,Others,6838,0.21
+2022,"Training, Nursery & Horticulture",3292,0.1
+2022,Fisheries & Aquaculture,2483,0.08
+2022,Livestock & Dairy,2050,0.06
+2023,Weather & Climate,1366202,39.88
+2023,Crop Protection & Inputs,908560,26.52
+2023,Government Schemes & Insurance,729296,21.29
+2023,Crop Production Practices,289219,8.44
+2023,Markets & Post-Harvest,108198,3.16
+2023,Machinery & Infrastructure,10872,0.32
+2023,Others,6965,0.2
+2023,"Training, Nursery & Horticulture",3218,0.09
+2023,Fisheries & Aquaculture,1873,0.05
+2023,Livestock & Dairy,1726,0.05
+2024,Crop Protection & Inputs,1002238,30.99
+2024,Weather & Climate,908354,28.09
+2024,Government Schemes & Insurance,708234,21.9
+2024,Crop Production Practices,504165,15.59
+2024,Markets & Post-Harvest,88952,2.75
+2024,Machinery & Infrastructure,8504,0.26
+2024,Others,6203,0.19
+2024,"Training, Nursery & Horticulture",3966,0.12
+2024,Livestock & Dairy,1964,0.06
+2024,Fisheries & Aquaculture,1481,0.05
+2025,Crop Protection & Inputs,435199,27.51
+2025,Government Schemes & Insurance,429078,27.13
+2025,Crop Production Practices,359051,22.7
+2025,Weather & Climate,271977,17.19
+2025,Markets & Post-Harvest,55103,3.48
+2025,Unclassified,18945,1.2
+2025,Others,4469,0.28
+2025,Machinery & Infrastructure,4323,0.27
+2025,"Training, Nursery & Horticulture",1881,0.12
+2025,Livestock & Dairy,1179,0.07
+2025,Fisheries & Aquaculture,546,0.03

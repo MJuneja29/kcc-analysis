@@ -1,0 +1,1388 @@
+year,QueryType,count
+2006,102,2
+2006,2,3
+2006,22,1
+2006,26,1
+2006,3,43
+2006,38,1
+2006,5,4
+2006,61,2
+2006,74,1
+2006,75,14
+2006,76,29
+2006,78,2
+2006,99,4
+2006,Dairy Production,4
+2006,Disease Management,1
+2007,1,6
+2007,100,2
+2007,12,2
+2007,2,10
+2007,29,3
+2007,3,8
+2007,36,1
+2007,5,8
+2007,6,4
+2007,74,3
+2007,75,8
+2007,76,9
+2007,78,9
+2007,84,1
+2007,85,1
+2007,87,3
+2007,92,1
+2007,Agriculture Mechanization,7
+2007,Cultural Practices,1
+2007,Fertilizer Use and Availability,4
+2007,Plant Protection,1
+2007,Weather,3
+2008,0,13
+2008,1,2
+2008,100,1
+2008,102,3
+2008,12,3
+2008,15,1
+2008,2,7
+2008,20,2
+2008,21,3
+2008,22,2
+2008,26,4
+2008,27,4
+2008,29,9
+2008,3,28
+2008,31,2
+2008,32,1
+2008,43,1
+2008,5,2
+2008,6,10
+2008,74,2
+2008,75,7
+2008,76,6
+2008,78,6
+2008,8,1
+2008,85,1
+2008,91,1
+2008,94,1
+2008,99,1
+2008,Dairy Production,1
+2008,Disease Management,3
+2008,Fertilizer Use and Availability,8
+2008,Market Information,5
+2008,Soil Testing,1
+2008,Water Management,2
+2008,Weather,9
+2009,0,1187
+2009,1,12691
+2009,10,1466
+2009,100,176
+2009,102,779
+2009,11,265
+2009,12,405
+2009,15,409
+2009,16,162
+2009,17,24
+2009,18,1586
+2009,19,2428
+2009,2,44995
+2009,20,104
+2009,21,7759
+2009,22,2198
+2009,26,301
+2009,27,256
+2009,29,75373
+2009,3,41841
+2009,31,20
+2009,32,48
+2009,33,11
+2009,34,36
+2009,36,28
+2009,37,2
+2009,38,66
+2009,39,14
+2009,40,41
+2009,43,125
+2009,44,201
+2009,45,8179
+2009,46,2
+2009,47,3
+2009,48,9
+2009,49,1
+2009,5,35842
+2009,50,50
+2009,51,59
+2009,52,9
+2009,53,5
+2009,54,6
+2009,55,17
+2009,56,28
+2009,57,27
+2009,58,31
+2009,59,1
+2009,6,7409
+2009,60,11
+2009,61,73
+2009,74,730
+2009,75,5848
+2009,76,8294
+2009,78,1706
+2009,8,358
+2009,83,30
+2009,84,23
+2009,85,518
+2009,87,332
+2009,88,107
+2009,89,94
+2009,9,115
+2009,90,12
+2009,91,138
+2009,92,473
+2009,93,74
+2009,94,212
+2009,95,106
+2009,99,528
+2009,9999,291800
+2009,Agriculture Mechanization,1490
+2009,Credit,118
+2009,Cultivation Conditions,19
+2009,Cultural Practices,1025
+2009,Dairy Production,828
+2009,Disease,9
+2009,Disease Management,2321
+2009,Feed,2
+2009,Fertilizer Use and Availability,20413
+2009,Field Preparation,35
+2009,Loans ,5
+2009,Management,7
+2009,Market Information,348
+2009,Others,95
+2009,Plant Protection,111
+2009,Poultry,54
+2009,Soil Testing,403
+2009,Training,23
+2009,Varities,4
+2009,Water Management,840
+2009,Water Management Micro Irrigation,51
+2009,Weather,3926
+2010,0,13579
+2010,1,14007
+2010,10,155
+2010,100,1101
+2010,102,9465
+2010,11,274
+2010,12,1819
+2010,15,4759
+2010,16,544
+2010,17,60
+2010,18,4178
+2010,19,9660
+2010,2,49693
+2010,20,620
+2010,21,8199
+2010,22,15583
+2010,26,2654
+2010,27,1285
+2010,29,21763
+2010,3,103968
+2010,31,220
+2010,32,290
+2010,33,102
+2010,34,183
+2010,36,554
+2010,37,25
+2010,38,497
+2010,39,120
+2010,40,564
+2010,43,1060
+2010,44,589
+2010,45,2184
+2010,46,6
+2010,47,5
+2010,48,4
+2010,49,14
+2010,5,64555
+2010,50,303
+2010,51,156
+2010,52,92
+2010,53,48
+2010,54,23
+2010,55,71
+2010,56,140
+2010,57,198
+2010,58,472
+2010,59,3
+2010,6,6808
+2010,60,708
+2010,61,543
+2010,74,12230
+2010,75,67136
+2010,76,90957
+2010,78,24350
+2010,8,4915
+2010,83,163
+2010,84,177
+2010,85,4020
+2010,87,3647
+2010,88,1469
+2010,89,1125
+2010,9,695
+2010,90,49
+2010,91,1011
+2010,92,4887
+2010,93,733
+2010,94,638
+2010,95,1546
+2010,99,14295
+2010,Agriculture Mechanization,8060
+2010,Credit,772
+2010,Cultivation Conditions,532
+2010,Cultural Practices,3455
+2010,Dairy Production,10447
+2010,Disease,110
+2010,Disease Management,5042
+2010,Dosage,6
+2010,Feed,75
+2010,Fertilizer Use and Availability,43503
+2010,Field Preparation,109
+2010,Loans ,115
+2010,Management,72
+2010,Market Information,4377
+2010,Others,854
+2010,Plant Protection,2248
+2010,Poultry,569
+2010,Soil Testing,1401
+2010,Training,500
+2010,Varities,69
+2010,Water Management,1887
+2010,Water Management Micro Irrigation,276
+2010,Weather,30245
+2011,0,25846
+2011,1,12619
+2011,10,127
+2011,100,1629
+2011,102,7906
+2011,11,282
+2011,12,1703
+2011,15,4828
+2011,16,504
+2011,17,45
+2011,18,3029
+2011,19,8174
+2011,2,59682
+2011,20,613
+2011,21,5398
+2011,22,23658
+2011,26,3781
+2011,27,2138
+2011,29,19160
+2011,3,96176
+2011,31,206
+2011,32,152
+2011,33,144
+2011,34,63
+2011,36,414
+2011,37,25
+2011,38,431
+2011,39,24
+2011,40,258
+2011,43,1704
+2011,44,127
+2011,45,2330
+2011,46,7
+2011,47,6
+2011,48,7
+2011,49,8
+2011,5,49948
+2011,50,673
+2011,51,157
+2011,52,94
+2011,53,93
+2011,54,18
+2011,55,29
+2011,56,79
+2011,57,187
+2011,58,281
+2011,59,5
+2011,6,6112
+2011,60,199
+2011,61,387
+2011,74,13113
+2011,75,73225
+2011,76,75580
+2011,78,20793
+2011,8,6011
+2011,83,120
+2011,84,275
+2011,85,3642
+2011,87,4524
+2011,88,897
+2011,89,639
+2011,9,948
+2011,90,92
+2011,91,1243
+2011,92,4442
+2011,93,405
+2011,94,598
+2011,95,2424
+2011,99,14487
+2011,Agriculture Mechanization,4655
+2011,Credit,618
+2011,Cultivation Conditions,350
+2011,Cultural Practices,4570
+2011,Dairy Production,7457
+2011,Disease,60
+2011,Disease Management,2894
+2011,Dosage,5
+2011,Feed,42
+2011,Fertilizer Use and Availability,39807
+2011,Field Preparation,151
+2011,Loans ,55
+2011,Management,35
+2011,Market Information,3797
+2011,Others,190
+2011,Plant Protection,3079
+2011,Poultry,491
+2011,Soil Testing,2981
+2011,Training,271
+2011,Varities,8
+2011,Water Management,1909
+2011,Water Management Micro Irrigation,295
+2011,Weather,27207
+2012,0,133609
+2012,1,15524
+2012,10,277
+2012,100,2284
+2012,102,18039
+2012,11,433
+2012,12,3576
+2012,15,10755
+2012,16,1249
+2012,17,132
+2012,18,6444
+2012,19,9537
+2012,2,62085
+2012,20,3573
+2012,21,6314
+2012,22,40492
+2012,26,7703
+2012,27,3807
+2012,29,66471
+2012,3,95896
+2012,31,744
+2012,32,591
+2012,33,205
+2012,34,287
+2012,36,938
+2012,37,84
+2012,38,765
+2012,39,157
+2012,40,684
+2012,43,1394
+2012,44,678
+2012,45,3871
+2012,46,9
+2012,47,4
+2012,48,4
+2012,49,6
+2012,5,75801
+2012,50,1353
+2012,51,171
+2012,52,148
+2012,53,104
+2012,54,23
+2012,55,13
+2012,56,320
+2012,57,193
+2012,58,193
+2012,59,3
+2012,6,26306
+2012,60,164
+2012,61,636
+2012,74,11984
+2012,75,69340
+2012,76,61249
+2012,78,23868
+2012,8,5099
+2012,83,323
+2012,84,398
+2012,85,4034
+2012,87,10998
+2012,88,1220
+2012,89,929
+2012,9,4875
+2012,90,143
+2012,91,1645
+2012,92,4394
+2012,93,3431
+2012,94,840
+2012,95,4637
+2012,99,18134
+2012,Agriculture Mechanization,1483
+2012,Credit,678
+2012,Cultivation Conditions,147
+2012,Cultural Practices,13482
+2012,Dairy Production,5557
+2012,Disease,132
+2012,Disease Management,3683
+2012,Dosage,13
+2012,Feed,27
+2012,Fertilizer Use and Availability,66302
+2012,Field Preparation,261
+2012,Loans ,66
+2012,Management,294
+2012,Market Information,8527
+2012,Others,463
+2012,Plant Protection,47211
+2012,Poultry,1129
+2012,Soil Testing,5562
+2012,Training,226
+2012,Varities,68
+2012,Water Management,5086
+2012,Water Management Micro Irrigation,1028
+2012,Weather,97461
+2013,0,70936
+2013,1,7269
+2013,10,128
+2013,100,2910
+2013,102,13241
+2013,11,174
+2013,12,1219
+2013,15,5528
+2013,16,595
+2013,17,48
+2013,18,651
+2013,19,1681
+2013,2,28978
+2013,20,2722
+2013,21,2487
+2013,22,18351
+2013,26,1900
+2013,27,2722
+2013,29,39297
+2013,3,38601
+2013,31,518
+2013,32,493
+2013,33,42
+2013,34,168
+2013,36,503
+2013,37,15
+2013,38,309
+2013,39,79
+2013,40,441
+2013,43,587
+2013,44,404
+2013,45,1274
+2013,46,1
+2013,49,1
+2013,5,14576
+2013,50,356
+2013,51,124
+2013,52,80
+2013,53,36
+2013,54,13
+2013,55,9
+2013,56,91
+2013,57,37
+2013,58,85
+2013,59,2
+2013,6,20539
+2013,60,37
+2013,61,241
+2013,74,6979
+2013,75,39551
+2013,76,38005
+2013,78,13778
+2013,8,1712
+2013,83,162
+2013,84,173
+2013,85,1872
+2013,87,7128
+2013,88,761
+2013,89,485
+2013,9,2541
+2013,90,90
+2013,91,469
+2013,92,1346
+2013,93,2938
+2013,94,430
+2013,95,2938
+2013,99,13678
+2013,Agriculture Mechanization,17443
+2013,Animal Breeding,2750
+2013,Animal Nutrition,2052
+2013,Animal Production Piggery Goatery Sheep Farming etc,1257
+2013,Artificial Insemination,131
+2013,Beekeeping,212
+2013,Bio-Pesticides and Bio-Fertilizers,16447
+2013,Breeding and culture of ornamental fish,240
+2013,Breeding of freshwater prawn,241
+2013,Cattle shed Planning and Management,580
+2013,Coastal Aquaculture,192
+2013,Cold Storage,156
+2013,Credit,3857
+2013,Crop Insurance,1587
+2013,Cultivation Conditions,41
+2013,Cultural Practices,87856
+2013,Dairy Production,3677
+2013,Deep Sea Fishing and Processing,50
+2013,Disease,68
+2013,Disease Management,6882
+2013,Disease Reporting,715
+2013,Dosage,6
+2013,Feed,22
+2013,Fertilizer Use and Availability,110700
+2013,Field Preparation,27798
+2013,Fish  Marketing,285
+2013,Fish Dressing   Drying,58
+2013,Fish Fingerling Production,177
+2013,Fishery Mechanization,356
+2013,Fishery Nutrition,587
+2013,Fishing Harbours and Landing Centre,22
+2013,Floriculture,1098
+2013,Freshwater Pearl Farming,50
+2013,Freshwater pearl culture,46
+2013,Government Schemes,22328
+2013,Integrated Farming,702
+2013,Landscaping,106
+2013,Livestock Products Processing and Packaging,808
+2013,Loans ,24
+2013,Magur Breeding and Culture,47
+2013,Management,210
+2013,Market Information,46799
+2013,Medicinal and Aromatic Plants,174
+2013,Mushroom Production,486
+2013,Nursery Management,591
+2013,Nutrient Management,12099
+2013,OldSenile Orchard Rejuvenation,100
+2013,Organic Farming,1064
+2013,Others,71
+2013,Plant Protection,433873
+2013,Plasticulture,343
+2013,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,536
+2013,Post Harvest Preservation,672
+2013,Poultry,407
+2013,Power Roads etc,727
+2013,Seaweed Cultivation,22
+2013,Seeds,57967
+2013,Seeds and Planting Material,15008
+2013,Soil Testing,9917
+2013,Spices and Condiment Crops,270
+2013,Storage,841
+2013,Tank Pond and Reservoir Management,1697
+2013,Training,43
+2013,Training and Exposure Visits,4395
+2013,Varieties,55
+2013,Varities,65
+2013,Vegetative Propagation and Tissue Culture,839
+2013,Water Management,9145
+2013,Water Management Micro Irrigation,2510
+2013,Water Testing for Fish Production,205
+2013,Weather,193610
+2014,Agriculture Mechanization,31239
+2014,Animal Breeding,3790
+2014,Animal Nutrition,3734
+2014,Animal Production Piggery Goatery Sheep Farming etc,1649
+2014,Artificial Insemination,166
+2014,Beekeeping,662
+2014,Bio-Pesticides and Bio-Fertilizers,23515
+2014,Breeding and culture of ornamental fish,365
+2014,Breeding of freshwater prawn,231
+2014,Cattle shed Planning and Management,539
+2014,Coastal Aquaculture,735
+2014,Cold Storage,473
+2014,Credit,4619
+2014,Crop Insurance,2496
+2014,Cultural Practices,97642
+2014,Dairy Production,2654
+2014,Deep Sea Fishing and Processing,35
+2014,Disease Management,6074
+2014,Disease Reporting,1122
+2014,Fertilizer Use and Availability,106662
+2014,Field Preparation,44350
+2014,Fish  Marketing,401
+2014,Fish Dressing   Drying,73
+2014,Fish Fingerling Production,208
+2014,Fishery Mechanization,870
+2014,Fishery Nutrition,1060
+2014,Fishing Harbours and Landing Centre,34
+2014,Floriculture,653
+2014,Freshwater Pearl Farming,84
+2014,Freshwater pearl culture,93
+2014,Government Schemes,52656
+2014,Integrated Farming,824
+2014,Landscaping,265
+2014,Livestock Products Processing and Packaging,992
+2014,Magur Breeding and Culture,60
+2014,Market Information,73846
+2014,Medicinal and Aromatic Plants,234
+2014,Mushroom Production,611
+2014,Nursery Management,979
+2014,Nutrient Management,32939
+2014,OldSenile Orchard Rejuvenation,168
+2014,Organic Farming,1521
+2014,Plant Protection,833468
+2014,Plasticulture,489
+2014,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,665
+2014,Post Harvest Preservation,658
+2014,Power Roads etc,877
+2014,Seaweed Cultivation,30
+2014,Seeds,67674
+2014,Seeds and Planting Material,34632
+2014,Soil Health Card,387
+2014,Soil Testing,10047
+2014,Sowing Time and Weather,3486
+2014,Spices and Condiment Crops,805
+2014,Storage,1631
+2014,Tank Pond and Reservoir Management,3947
+2014,Training and Exposure Visits,9692
+2014,Varieties,33524
+2014,Vegetative Propagation and Tissue Culture,1683
+2014,Water Management,7895
+2014,Water Management Micro Irrigation,1676
+2014,Water Testing for Fish Production,617
+2014,Weather,585831
+2014,Weed Management,11027
+2015,Agriculture Mechanization,37345
+2015,Animal Breeding,5056
+2015,Animal Nutrition,2994
+2015,Animal Production Piggery Goatery Sheep Farming etc,2556
+2015,Artificial Insemination,206
+2015,Beekeeping,698
+2015,Bio-Pesticides and Bio-Fertilizers,28914
+2015,Breeding and culture of ornamental fish,488
+2015,Breeding of freshwater prawn,322
+2015,Cattle shed Planning and Management,787
+2015,Coastal Aquaculture,901
+2015,Cold Storage,367
+2015,Credit,4097
+2015,Crop Insurance,5258
+2015,Cultural Practices,95002
+2015,Dairy Production,3660
+2015,Deep Sea Fishing and Processing,54
+2015,Disease Management,7426
+2015,Disease Reporting,1168
+2015,Fertilizer Use and Availability,109566
+2015,Field Preparation,61507
+2015,Fish  Marketing,366
+2015,Fish Dressing   Drying,97
+2015,Fish Fingerling Production,284
+2015,Fishery Mechanization,1075
+2015,Fishery Nutrition,852
+2015,Fishing Harbours and Landing Centre,24
+2015,Floriculture,542
+2015,Freshwater Pearl Farming,95
+2015,Freshwater pearl culture,102
+2015,Government Schemes,189957
+2015,Integrated Farming,906
+2015,Landscaping,172
+2015,Livestock Products Processing and Packaging,1498
+2015,Magur Breeding and Culture,39
+2015,Market Information,148406
+2015,Medicinal and Aromatic Plants,236
+2015,Mushroom Production,871
+2015,Nursery Management,1681
+2015,Nutrient Management,54996
+2015,OldSenile Orchard Rejuvenation,79
+2015,Organic Farming,2757
+2015,Plant Protection,1208068
+2015,Plasticulture,80
+2015,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,547
+2015,Post Harvest Preservation,806
+2015,Power Roads etc,945
+2015,Seaweed Cultivation,38
+2015,Seeds,33297
+2015,Seeds and Planting Material,51028
+2015,Soil Testing,18306
+2015,Sowing Time and Weather,16627
+2015,Spices and Condiment Crops,1037
+2015,Storage,1784
+2015,Tank Pond and Reservoir Management,2798
+2015,Training and Exposure Visits,10615
+2015,Varieties,105539
+2015,Vegetative Propagation and Tissue Culture,6526
+2015,Water Management,13296
+2015,Water Management Micro Irrigation,1631
+2015,Water Testing for Fish Production,569
+2015,Weather,1416028
+2015,Weed Management,42437
+2016,Agriculture Mechanization,20381
+2016,Animal Breeding,4754
+2016,Animal Nutrition,2847
+2016,Animal Production Piggery Goatery Sheep Farming etc,2861
+2016,Artificial Insemination,222
+2016,Beekeeping,420
+2016,Bio-Pesticides and Bio-Fertilizers,43196
+2016,Breeding and culture of ornamental fish,573
+2016,Breeding of freshwater prawn,237
+2016,Cattle shed Planning and Management,679
+2016,Coastal Aquaculture,133
+2016,Cold Storage,589
+2016,Credit,5685
+2016,Crop Insurance,16203
+2016,Cultural Practices,154801
+2016,Dairy Production,3762
+2016,Deep Sea Fishing and Processing,63
+2016,Disease Management,10315
+2016,Disease Reporting,1763
+2016,Fertilizer Use and Availability,140316
+2016,Field Preparation,75315
+2016,Fish  Marketing,796
+2016,Fish Dressing   Drying,122
+2016,Fish Fingerling Production,330
+2016,Fishery Mechanization,188
+2016,Fishery Nutrition,1177
+2016,Fishing Harbours and Landing Centre,41
+2016,Floriculture,781
+2016,Freshwater Pearl Farming,90
+2016,Freshwater pearl culture,78
+2016,Government Schemes,192917
+2016,Integrated Farming,1326
+2016,Landscaping,248
+2016,Livestock Products Processing and Packaging,2058
+2016,Magur Breeding and Culture,40
+2016,Market Information,134902
+2016,Medicinal and Aromatic Plants,416
+2016,Mushroom Production,672
+2016,Nursery Management,2736
+2016,Nutrient Management,104057
+2016,OldSenile Orchard Rejuvenation,111
+2016,Organic Farming,5737
+2016,Plant Protection,932858
+2016,Plasticulture,79
+2016,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,588
+2016,Post Harvest Preservation,947
+2016,Power Roads etc,1132
+2016,Seaweed Cultivation,37
+2016,Seeds,34058
+2016,Seeds and Planting Material,44870
+2016,Soil Testing,26632
+2016,Sowing Time and Weather,20828
+2016,Spices and Condiment Crops,1128
+2016,Storage,2123
+2016,Tank Pond and Reservoir Management,3016
+2016,Training and Exposure Visits,11509
+2016,Varieties,142536
+2016,Vegetative Propagation and Tissue Culture,8915
+2016,Water Management,13483
+2016,Water Management Micro Irrigation,2283
+2016,Water Testing for Fish Production,578
+2016,Weather,1941547
+2016,Weed Management,69689
+2017,Agriculture Mechanization,17683
+2017,Animal Breeding,8080
+2017,Animal Nutrition,3496
+2017,Animal Production Piggery Goatery Sheep Farming etc,4386
+2017,Artificial Insemination,434
+2017,Beekeeping,464
+2017,Bio-Pesticides and Bio-Fertilizers,51130
+2017,Breeding and culture of ornamental fish,447
+2017,Breeding of freshwater prawn,194
+2017,Cattle shed Planning and Management,1210
+2017,Coastal Aquaculture,141
+2017,Cold Storage,887
+2017,Credit,10495
+2017,Crop Insurance,14403
+2017,Cultural Practices,158808
+2017,Dairy Production,10350
+2017,Deep Sea Fishing and Processing,108
+2017,Disease Management,13999
+2017,Disease Reporting,2087
+2017,Fertilizer Use and Availability,117918
+2017,Field Preparation,67159
+2017,Fish  Marketing,409
+2017,Fish Dressing   Drying,211
+2017,Fish Fingerling Production,292
+2017,Fishery Mechanization,203
+2017,Fishery Nutrition,723
+2017,Fishing Harbours and Landing Centre,45
+2017,Floriculture,737
+2017,Freshwater Pearl Farming,88
+2017,Freshwater pearl culture,82
+2017,Government Schemes,158715
+2017,Integrated Farming,1187
+2017,Landscaping,314
+2017,Livestock Products Processing and Packaging,2517
+2017,Magur Breeding and Culture,68
+2017,Market Information,114053
+2017,Medicinal and Aromatic Plants,396
+2017,Mushroom Production,611
+2017,Nursery Management,2114
+2017,Nutrient Management,107287
+2017,OldSenile Orchard Rejuvenation,123
+2017,Organic Farming,5307
+2017,Plant Protection,615813
+2017,Plasticulture,79
+2017,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,374
+2017,Post Harvest Preservation,1026
+2017,Power Roads etc,1582
+2017,Seaweed Cultivation,46
+2017,Seeds,24997
+2017,Seeds and Planting Material,31398
+2017,Soil Health Card,2587
+2017,Soil Testing,24156
+2017,Sowing Time and Weather,16636
+2017,Spices and Condiment Crops,804
+2017,Storage,3005
+2017,Tank Pond and Reservoir Management,3964
+2017,Training and Exposure Visits,16075
+2017,Varieties,113138
+2017,Vegetative Propagation and Tissue Culture,6645
+2017,Water Management,11262
+2017,Water Management Micro Irrigation,1608
+2017,Water Testing for Fish Production,390
+2017,Weather,2191182
+2017,Weed Management,57389
+2018,Agriculture Mechanization,10489
+2018,Animal Breeding,3305
+2018,Animal Nutrition,1925
+2018,Animal Production Piggery Goatery Sheep Farming etc,1957
+2018,Artificial Insemination,180
+2018,Beekeeping,167
+2018,Bio-Pesticides and Bio-Fertilizers,31929
+2018,Breeding and culture of ornamental fish,304
+2018,Breeding of freshwater prawn,94
+2018,Cattle shed Planning and Management,788
+2018,Coastal Aquaculture,71
+2018,Cold Storage,316
+2018,Credit,4675
+2018,Crop Insurance,9407
+2018,Cultural Practices,93360
+2018,Dairy Production,2770
+2018,Deep Sea Fishing and Processing,34
+2018,Disease Management,4930
+2018,Disease Reporting,720
+2018,Fertilizer Use and Availability,76113
+2018,Field Preparation,32653
+2018,Fish  Marketing,256
+2018,Fish Dressing   Drying,88
+2018,Fish Fingerling Production,201
+2018,Fishery Mechanization,95
+2018,Fishery Nutrition,486
+2018,Fishing Harbours and Landing Centre,29
+2018,Floriculture,468
+2018,Freshwater Pearl Farming,59
+2018,Freshwater pearl culture,45
+2018,Government Schemes,127351
+2018,Integrated Farming,504
+2018,Landscaping,224
+2018,Livestock Products Processing and Packaging,909
+2018,Magur Breeding and Culture,23
+2018,Market Information,77884
+2018,Medicinal and Aromatic Plants,354
+2018,Mushroom Production,511
+2018,Nursery Management,2174
+2018,Nutrient Management,91140
+2018,OldSenile Orchard Rejuvenation,115
+2018,Organic Farming,4002
+2018,Plant Protection,424844
+2018,Plasticulture,56
+2018,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,266
+2018,Post Harvest Preservation,834
+2018,Power Roads etc,715
+2018,Seaweed Cultivation,23
+2018,Seeds,15200
+2018,Seeds and Planting Material,21886
+2018,Soil Health Card,2324
+2018,Soil Testing,12650
+2018,Sowing Time and Weather,8855
+2018,Spices and Condiment Crops,654
+2018,Storage,687
+2018,Tank Pond and Reservoir Management,2212
+2018,Training and Exposure Visits,10279
+2018,Varieties,54426
+2018,Vegetative Propagation and Tissue Culture,5135
+2018,Water Management,5846
+2018,Water Management Micro Irrigation,1183
+2018,Water Testing for Fish Production,209
+2018,Weather,1701853
+2018,Weed Management,47953
+2019,0,9518
+2019,Agriculture Mechanization,10841
+2019,Animal Breeding,2058
+2019,Animal Nutrition,3102
+2019,Animal Production Piggery Goatery Sheep Farming etc,4982
+2019,Artificial Insemination,305
+2019,Beekeeping,88
+2019,Bio-Pesticides and Bio-Fertilizers,17241
+2019,Breeding and culture of ornamental fish,143
+2019,Breeding of freshwater prawn,109
+2019,Cattle shed Planning and Management,4333
+2019,Coastal Aquaculture,63
+2019,Cold Storage,170
+2019,Credit,11787
+2019,Crop Insurance,31053
+2019,Cultural Practices,125466
+2019,Dairy Production,3191
+2019,Deep Sea Fishing and Processing,45
+2019,Disease Management,8080
+2019,Disease Reporting,2517
+2019,Fertilizer Use and Availability,114035
+2019,Field Preparation,10845
+2019,Fish  Marketing,302
+2019,Fish Dressing   Drying,110
+2019,Fish Fingerling Production,791
+2019,Fishery Mechanization,279
+2019,Fishery Nutrition,763
+2019,Fishing Harbours and Landing Centre,66
+2019,Floriculture,544
+2019,Freshwater Pearl Farming,215
+2019,Freshwater pearl culture,142
+2019,Government Schemes,552534
+2019,Integrated Farming,651
+2019,Landscaping,146
+2019,Livestock Products Processing and Packaging,1655
+2019,Magur Breeding and Culture,100
+2019,Market Information,122215
+2019,Medicinal and Aromatic Plants,856
+2019,Mushroom Production,1327
+2019,Nursery Management,3809
+2019,Nutrient Management,210755
+2019,OldSenile Orchard Rejuvenation,157
+2019,Organic Farming,6509
+2019,Plant Protection,835092
+2019,Plasticulture,271
+2019,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,1195
+2019,Post Harvest Preservation,1385
+2019,Power Roads etc,1593
+2019,Seaweed Cultivation,28
+2019,Seeds,35769
+2019,Seeds and Planting Material,43488
+2019,Soil Health Card,4089
+2019,Soil Testing,8411
+2019,Sowing Time and Weather,29590
+2019,Spices and Condiment Crops,1550
+2019,Storage,1720
+2019,Tank Pond and Reservoir Management,3190
+2019,Training and Exposure Visits,21078
+2019,Varieties,92803
+2019,Vegetative Propagation and Tissue Culture,12018
+2019,Water Management,11398
+2019,Water Management Micro Irrigation,3160
+2019,Water Testing for Fish Production,554
+2019,Weather,1974580
+2019,Weed Management,89810
+2020,0,448
+2020,Agriculture Mechanization,8251
+2020,Animal Breeding,1046
+2020,Animal Nutrition,1815
+2020,Animal Production Piggery Goatery Sheep Farming etc,2924
+2020,Artificial Insemination,166
+2020,Beekeeping,48
+2020,Bio-Pesticides and Bio-Fertilizers,6968
+2020,Breeding and culture of ornamental fish,56
+2020,Breeding of freshwater prawn,77
+2020,Cattle shed Planning and Management,2472
+2020,Coastal Aquaculture,38
+2020,Cold Storage,105
+2020,Credit,13704
+2020,Crop Insurance,24163
+2020,Cultural Practices,112899
+2020,Dairy Production,2217
+2020,Deep Sea Fishing and Processing,12
+2020,Disease Management,4581
+2020,Disease Reporting,1451
+2020,Fertilizer Use and Availability,85759
+2020,Field Preparation,7297
+2020,Fish  Marketing,193
+2020,Fish Dressing   Drying,71
+2020,Fish Fingerling Production,553
+2020,Fishery Mechanization,170
+2020,Fishery Nutrition,545
+2020,Fishing Harbours and Landing Centre,31
+2020,Floriculture,190
+2020,Freshwater Pearl Farming,110
+2020,Freshwater pearl culture,85
+2020,Government Schemes,516106
+2020,Integrated Farming,519
+2020,Landscaping,82
+2020,Livestock Products Processing and Packaging,892
+2020,Magur Breeding and Culture,50
+2020,Market Information,81914
+2020,Medicinal and Aromatic Plants,483
+2020,Mushroom Production,704
+2020,Nursery Management,3706
+2020,Nutrient Management,168978
+2020,OldSenile Orchard Rejuvenation,90
+2020,Organic Farming,5899
+2020,Plant Protection,583794
+2020,Plasticulture,139
+2020,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,1204
+2020,Post Harvest Preservation,593
+2020,Power Roads etc,952
+2020,Seaweed Cultivation,32
+2020,Seeds,24039
+2020,Seeds and Planting Material,37271
+2020,Soil Health Card,1882
+2020,Soil Testing,4263
+2020,Sowing Time and Weather,26359
+2020,Spices and Condiment Crops,933
+2020,Storage,947
+2020,Tank Pond and Reservoir Management,2102
+2020,Training and Exposure Visits,14759
+2020,Varieties,51606
+2020,Vegetative Propagation and Tissue Culture,8254
+2020,Water Management,12716
+2020,Water Management Micro Irrigation,4531
+2020,Water Testing for Fish Production,401
+2020,Weather,875131
+2020,Weed Management,61141
+2021,0,247
+2021,Agriculture Mechanization,4434
+2021,Animal Breeding,525
+2021,Animal Nutrition,1071
+2021,Animal Production Piggery Goatery Sheep Farming etc,1384
+2021,Artificial Insemination,98
+2021,Beekeeping,37
+2021,Bio-Pesticides and Bio-Fertilizers,5078
+2021,Breeding and culture of ornamental fish,28
+2021,Breeding of freshwater prawn,29
+2021,Cattle shed Planning and Management,1339
+2021,Coastal Aquaculture,13
+2021,Cold Storage,133
+2021,Credit,4714
+2021,Crop Insurance,18658
+2021,Cultural Practices,84243
+2021,Dairy Production,917
+2021,Deep Sea Fishing and Processing,13
+2021,Disease Management,3385
+2021,Disease Reporting,1049
+2021,Fertilizer Use and Availability,69741
+2021,Field Preparation,4146
+2021,Fish  Marketing,64
+2021,Fish Dressing   Drying,13
+2021,Fish Fingerling Production,309
+2021,Fishery Mechanization,64
+2021,Fishery Nutrition,284
+2021,Fishing Harbours and Landing Centre,15
+2021,Floriculture,93
+2021,Freshwater Pearl Farming,42
+2021,Freshwater pearl culture,22
+2021,Government Schemes,321792
+2021,Integrated Farming,205
+2021,Landscaping,49
+2021,Livestock Products Processing and Packaging,384
+2021,Magur Breeding and Culture,23
+2021,Market Information,76661
+2021,Medicinal and Aromatic Plants,146
+2021,Mushroom Production,218
+2021,Nursery Management,2300
+2021,Nutrient Management,118612
+2021,OldSenile Orchard Rejuvenation,44
+2021,Organic Farming,4033
+2021,Plant Protection,374623
+2021,Plasticulture,95
+2021,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,744
+2021,Post Harvest Preservation,487
+2021,Power Roads etc,569
+2021,Seaweed Cultivation,9
+2021,Seeds,20303
+2021,Seeds and Planting Material,21435
+2021,Soil Health Card,1442
+2021,Soil Testing,3379
+2021,Sowing Time and Weather,27187
+2021,Spices and Condiment Crops,501
+2021,Storage,476
+2021,Tank Pond and Reservoir Management,988
+2021,Training and Exposure Visits,10785
+2021,Varieties,52369
+2021,Vegetative Propagation and Tissue Culture,4084
+2021,Water Management,13548
+2021,Water Management Micro Irrigation,3708
+2021,Water Testing for Fish Production,133
+2021,Weather,633946
+2021,Weed Management,36089
+2022,0,370
+2022,Agriculture Mechanization,7512
+2022,Animal Breeding,804
+2022,Animal Nutrition,1165
+2022,Animal Production Piggery Goatery Sheep Farming etc,2001
+2022,Artificial Insemination,145
+2022,Beekeeping,43
+2022,Bio-Pesticides and Bio-Fertilizers,5078
+2022,Breeding and culture of ornamental fish,47
+2022,Breeding of freshwater prawn,42
+2022,Cattle shed Planning and Management,2158
+2022,Coastal Aquaculture,28
+2022,Cold Storage,134
+2022,Credit,9322
+2022,Crop Insurance,29352
+2022,Cultural Practices,124233
+2022,Dairy Production,1346
+2022,Deep Sea Fishing and Processing,21
+2022,Disease Management,6467
+2022,Disease Reporting,2088
+2022,Fertilizer Use and Availability,104445
+2022,Field Preparation,7377
+2022,Fish  Marketing,135
+2022,Fish Dressing   Drying,64
+2022,Fish Fingerling Production,390
+2022,Fishery Mechanization,111
+2022,Fishery Nutrition,448
+2022,Fishing Harbours and Landing Centre,29
+2022,Floriculture,188
+2022,Freshwater Pearl Farming,86
+2022,Freshwater pearl culture,47
+2022,Government Schemes,689119
+2022,Integrated Farming,270
+2022,Landscaping,80
+2022,Livestock Products Processing and Packaging,574
+2022,Magur Breeding and Culture,34
+2022,Market Information,144218
+2022,Medicinal and Aromatic Plants,228
+2022,Mushroom Production,274
+2022,Nursery Management,2876
+2022,Nutrient Management,192175
+2022,OldSenile Orchard Rejuvenation,72
+2022,Organic Farming,4699
+2022,Plant Protection,569488
+2022,Plasticulture,186
+2022,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,844
+2022,Post Harvest Preservation,1843
+2022,Power Roads etc,996
+2022,Seaweed Cultivation,28
+2022,Seeds,25772
+2022,Seeds and Planting Material,24606
+2022,Soil Health Card,1431
+2022,Soil Testing,3533
+2022,Sowing Time and Weather,35445
+2022,Spices and Condiment Crops,904
+2022,Storage,689
+2022,Tank Pond and Reservoir Management,1803
+2022,Training and Exposure Visits,13896
+2022,Varieties,71686
+2022,Vegetative Propagation and Tissue Culture,5138
+2022,Water Management,19463
+2022,Water Management Micro Irrigation,4699
+2022,Water Testing for Fish Production,258
+2022,Weather,1084608
+2022,Weed Management,76343
+2023,0,191
+2023,Agriculture Mechanization,7079
+2023,Animal Breeding,620
+2023,Animal Nutrition,1028
+2023,Animal Production Piggery Goatery Sheep Farming etc,1639
+2023,Artificial Insemination,144
+2023,Beekeeping,43
+2023,Bio-Pesticides and Bio-Fertilizers,5890
+2023,Breeding and culture of ornamental fish,48
+2023,Breeding of freshwater prawn,34
+2023,Cattle shed Planning and Management,2174
+2023,Coastal Aquaculture,18
+2023,Cold Storage,119
+2023,Credit,5732
+2023,Crop Insurance,14932
+2023,Cultural Practices,128965
+2023,Dairy Production,1226
+2023,Deep Sea Fishing and Processing,7
+2023,Disease Management,4724
+2023,Disease Reporting,1453
+2023,Fertilizer Use and Availability,91702
+2023,Field Preparation,6649
+2023,Fish  Marketing,107
+2023,Fish Dressing   Drying,33
+2023,Fish Fingerling Production,344
+2023,Fishery Mechanization,94
+2023,Fishery Nutrition,246
+2023,Fishing Harbours and Landing Centre,14
+2023,Floriculture,179
+2023,Freshwater Pearl Farming,62
+2023,Freshwater pearl culture,42
+2023,Government Schemes,708632
+2023,Integrated Farming,214
+2023,Landscaping,110
+2023,Livestock Products Processing and Packaging,446
+2023,Magur Breeding and Culture,30
+2023,Market Information,104460
+2023,Medicinal and Aromatic Plants,143
+2023,Mushroom Production,197
+2023,Nursery Management,2896
+2023,Nutrient Management,188396
+2023,OldSenile Orchard Rejuvenation,58
+2023,Organic Farming,4247
+2023,Plant Protection,540423
+2023,Plasticulture,150
+2023,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,631
+2023,Post Harvest Preservation,1635
+2023,Power Roads etc,1619
+2023,Seaweed Cultivation,7
+2023,Seeds,24684
+2023,Seeds and Planting Material,21957
+2023,Soil Health Card,1196
+2023,Soil Testing,3584
+2023,Sowing Time and Weather,42057
+2023,Spices and Condiment Crops,930
+2023,Storage,793
+2023,Tank Pond and Reservoir Management,1468
+2023,Training and Exposure Visits,12854
+2023,Varieties,69524
+2023,Vegetative Propagation and Tissue Culture,5316
+2023,Water Management,19571
+2023,Water Management Micro Irrigation,5080
+2023,Water Testing for Fish Production,218
+2023,Weather,1311291
+2023,Weed Management,75774
+2024,0,40
+2024,Agriculture Mechanization,5446
+2024,Animal Breeding,600
+2024,Animal Nutrition,1305
+2024,Animal Production Piggery Goatery Sheep Farming etc,1635
+2024,Artificial Insemination,152
+2024,Beekeeping,29
+2024,Bio-Pesticides and Bio-Fertilizers,5708
+2024,Breeding and culture of ornamental fish,36
+2024,Breeding of freshwater prawn,27
+2024,Cattle shed Planning and Management,1580
+2024,Coastal Aquaculture,12
+2024,Cold Storage,110
+2024,Credit,5602
+2024,Crop Insurance,15436
+2024,Cultural Practices,190142
+2024,Dairy Production,1051
+2024,Deep Sea Fishing and Processing,9
+2024,Disease Management,3588
+2024,Disease Reporting,978
+2024,Fertilizer Use and Availability,119328
+2024,Field Preparation,7441
+2024,Fish  Marketing,72
+2024,Fish Dressing   Drying,22
+2024,Fish Fingerling Production,197
+2024,Fishery Mechanization,73
+2024,Fishery Nutrition,248
+2024,Fishing Harbours and Landing Centre,9
+2024,Floriculture,148
+2024,Freshwater Pearl Farming,35
+2024,Freshwater pearl culture,26
+2024,Government Schemes,687196
+2024,Integrated Farming,195
+2024,Landscaping,138
+2024,Livestock Products Processing and Packaging,376
+2024,Magur Breeding and Culture,23
+2024,Market Information,55276
+2024,Medicinal and Aromatic Plants,137
+2024,Mushroom Production,279
+2024,Nursery Management,3681
+2024,Nutrient Management,209805
+2024,OldSenile Orchard Rejuvenation,57
+2024,Organic Farming,5437
+2024,Plant Protection,572792
+2024,Plasticulture,92
+2024,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,1727
+2024,Post Harvest Preservation,29841
+2024,Power Roads etc,1478
+2024,Seaweed Cultivation,5
+2024,Seeds,25841
+2024,Seeds and Planting Material,26661
+2024,Soil Health Card,1267
+2024,Soil Testing,4106
+2024,Sowing Time and Weather,63899
+2024,Spices and Condiment Crops,665
+2024,Storage,1541
+2024,Tank Pond and Reservoir Management,1117
+2024,Training and Exposure Visits,35758
+2024,Varieties,67960
+2024,Vegetative Propagation and Tissue Culture,4875
+2024,Water Management,158930
+2024,Water Management Micro Irrigation,13006
+2024,Water Testing for Fish Production,124
+2024,Weather,808697
+2024,Weed Management,89994
+2025,	Cultivation Conditions	,35
+2025,	Disease	,4
+2025,	Dosage	,2
+2025,	Field Preparation	,2467
+2025,	Management	,2
+2025,	Others	,22
+2025,	Plant Protection	,168432
+2025,	Training	,1
+2025,	Varities	,1
+2025,	Water Management	,109589
+2025,0,23
+2025,Abiotic Stress Management,13
+2025,Agriculture Mechanization,3200
+2025,Animal Breeding,258
+2025,Animal Nutrition,899
+2025,"Animal Production (Piggery, Goatery, Sheep Farming etc.)",690
+2025,Animal Production Piggery Goatery Sheep Farming etc,131
+2025,Artificial Insemination,67
+2025,Beekeeping,25
+2025,Bio-Pesticides and Bio-Fertilizers,2931
+2025,Breeding -Inbreeding,1
+2025,Breeding and culture of ornamental fish,16
+2025,Cattle shed Planning and Management,749
+2025,Coastal Aquaculture,12
+2025,Cold Storage,73
+2025,Credit,28280
+2025,Crop Insurance,3958
+2025,Cultural Practices,143999
+2025,Dairy Production,512
+2025,Deep Sea Fishing and Processing,2
+2025,Disease (Bacterial),2
+2025,Disease (Viral),2
+2025,Disease - External Parasitic,1
+2025,Disease Management,1608
+2025,Disease Reporting,482
+2025,Fertilizer Use and Availability,67256
+2025,Field Preparation,1521
+2025,Fish  Marketing,40
+2025,Fish Dressing   Drying,5
+2025,Fish Fingerling Production,157
+2025,Fishery Mechanization,19
+2025,Fishery Nutrition,78
+2025,Fishing Harbours and Landing Centre,8
+2025,Floriculture,63
+2025,Freshwater Pearl Farming,4
+2025,Freshwater Pearl Farming.,22
+2025,Freshwater pearl culture,7
+2025,Government Schemes,396840
+2025,Harvesting Management,7
+2025,Hormone Imbalance Management,16
+2025,Hormonic Imbalance,2
+2025,Insect Management,708
+2025,Integrated Farming,106
+2025,Irrigation Management,32
+2025,Landscaping,53
+2025,Livestock Products Processing and Packaging,177
+2025,Magur Breeding and Culture,5
+2025,Market Information,27652
+2025,Medicinal and Aromatic Plants,72
+2025,Method Of Propagation- Others,4
+2025,Mushroom Production,171
+2025,NA (Not Applicable),1793
+2025,Nursery Management,1742
+2025,Nutrient Deficiency/Excessiveness Management,901
+2025,Nutrient Management,103611
+2025,Old/Senile Orchard Rejuvenation,20
+2025,OldSenile Orchard Rejuvenation,2
+2025,Organic Farming,2548
+2025,Pathogenic Disease Management,302
+2025,Plant Protection,41793
+2025,Plasticulture,26
+2025,"Post Harvest Management (Cleaning, Grading, Packaging, Food Processing, Cool Chain etc.)",2912
+2025,Post Harvest Management - Abiotic,10
+2025,Post Harvest Management - Biotic,14
+2025,Post Harvest Management Cleaning Grading Packaging Food Processing Cool Chain etc,331
+2025,Post Harvest Preservation,23171
+2025,Power Roads etc,57
+2025,"Power, Roads etc.",317
+2025,Problem Of Soil,1
+2025,Seaweed Cultivation,3
+2025,Seed Sowing And Treatment,131
+2025,Seeds,11015
+2025,Seeds and Planting Material,12232
+2025,Soil Health Card,567
+2025,Soil Testing,2235
+2025,Sowing Time and Weather,47008
+2025,Spices and Condiment Crops,181
+2025,Storage,715
+2025,Tank Pond and Reservoir Management,74
+2025,"Tank, Pond and Reservoir Management",350
+2025,Training and Exposure Visits,42870
+2025,Vaccine - Viral,1
+2025,Varietal Selection,109
+2025,Varieties,31341
+2025,Vegetative Propagation and Tissue Culture,1300
+2025,Water Management,25480
+2025,Water Management Micro Irrigation,3329
+2025,"Water Management, Micro Irrigation",10809
+2025,Water Testing for Fish Production,61
+2025,Weather,182082
+2025,Weed Management,47848

@@ -1,0 +1,4 @@
+# This directory contains large processed datasets
+# Files are git-ignored due to size
+# Contact project maintainer for access to:
+# - kcc_master_dataset_remapped.csv (~50MB)

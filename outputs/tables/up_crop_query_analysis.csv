@@ -1,0 +1,1516 @@
+Crop,Question Theme,Count,Percentage
+Others,infortion about pm kisan samman nidhi yojana,444664,15.121853510529872
+Others,weather information,354222,12.046158884476622
+Others,farmer asked query on weather,217645,7.401534208524356
+Others,give me weather information,182333,6.200665932334174
+Others,mausam ki jankari,146981,4.998437361313691
+Paddy Dhan,farmer asked query on weather,171319,16.997534489857674
+Paddy Dhan,diseasein paddy crop,97140,9.637813087542972
+Paddy Dhan,information about a variety of paddy,67984,6.745080141481588
+Paddy Dhan,nformation about weed control in paddy,58278,5.782092558326429
+Paddy Dhan,insect  control  in paddy,45568,4.521061012694648
+Wheat,farmer asked query on weather,170981,17.226645226681498
+Wheat,informaion about of wheat crop variety,136951,13.798061132168241
+Wheat,tell me weed control in wheat crop,75595,7.616333077423736
+Wheat,information about weather forecast of block in districtjaunpur,51770,5.21592120402443
+Wheat,information about fertilizer dose im wheat crop,42274,4.259182016204921
+Sugarcane Noble Cane,information about in sugarcane crop,117030,41.37762786652242
+Sugarcane Noble Cane,ganne me keeda laga raha hai,34541,12.212463848052215
+Sugarcane Noble Cane,farmer asked query on weather,25470,9.005282250365939
+Sugarcane Noble Cane,information about control of top borer and stem borer in sugarcane crop,25398,8.979825622096353
+Sugarcane Noble Cane,dhan ki kaun c kism ki buayi kare,10110,3.5745348861876582
+Potato,information about the control of blight potato in crop,78227,38.95398343782212
+Potato,farmer asked query on weather,25726,12.81054083527953
+Potato,dhan ki kaun c kism ki buayi kare,11311,5.63243517794631
+Potato,information about fertilizer dose im wheat crop,8370,4.167932317161225
+Potato,information about weather forecast of block in districtjaunpur,7688,3.8283230172443847
+Mustard,information about in mustard crop,64851,50.754854311943845
+Mustard,farmer asked query on weather,17846,13.966957025349643
+Mustard,information about weather forecast of block in districtjaunpur,6164,4.824180382396907
+Mustard,give information about weather forecast of blockbilsi in districtbudaun,4489,3.5132618002238347
+Mustard,dhan ki kaun c kism ki buayi kare,4484,3.509348610426303
+Mango,plant portection in mango,74557,62.997042670046476
+Mango,aame ki pati kala ho raha hai,10552,8.915927334178285
+Mango,dhan ki kaun c kism ki buayi kare,6482,5.476975073933249
+Mango,dhan me ki kida laga hai,6374,5.385720321081537
+Mango,dhan ki baliya nahi nikal rahi  hai kya kare,3820,3.2277144064216308
+Paddy (Dhan),farmer asked query on weather,23669,20.216609581728264
+Paddy (Dhan),information about a variety of paddy,10237,8.743818170947325
+Paddy (Dhan),dhan me ki kida laga hai,9368,8.001571615261751
+Paddy (Dhan),insect  control  in paddy,7912,6.757945625528499
+Paddy (Dhan),diseasein paddy crop,7486,6.3940825268840165
+Chillies,pls tell me control of flower dropping in chilli crop,19788,23.3120884040385
+Chillies,insect control in  crops,10294,12.1272810810174
+Chillies,plant diseaseattack in crop,9652,11.370945890225368
+Chillies,dhan ki patti pili padh rahi hai,7574,8.922870303829978
+Chillies,aame ki pati kala ho raha hai,5415,6.379369249437461
+Black Gram urd bean,farmer asked query on weather,11813,14.082878329081328
+Black Gram urd bean,insect control in  crops,8144,9.708876755442168
+Black Gram urd bean,pls tell me control of flower dropping in chilli crop,4360,5.197777830762261
+Black Gram urd bean,tell me weed control in wheat crop,4295,5.120288023652273
+Black Gram urd bean,whet ki varieties,4157,4.955771202403376
+Mentha,information about  mentha is planted in the crop,32762,39.761156352779835
+Mentha,farmer asked query on weather,9332,11.325655060257048
+Mentha,dhan me ki kida laga hai,7046,8.551282206876463
+Mentha,dhan ki kaun c kism ki buayi kare,5550,6.735682124349188
+Mentha,dhan ki baliya nahi nikal rahi  hai kya kare,3313,4.020777455489885
+Maize Makka,farmer asked query on weather,20050,26.247921766792782
+Maize Makka,insect control in  crops,6069,7.945069187165356
+Maize Makka,whet ki varieties,4918,6.438268291725032
+Maize Makka,information about sowing time in any vegetable crop,3511,4.59633183656905
+Maize Makka,pls tell me control of flower dropping in chilli crop,3294,4.312252084778823
+Brinjal,brinjal in insect control,40762,61.249267479076195
+Brinjal,dhan me ki kida laga hai,6092,9.153881985244398
+Brinjal,dhan ki kaun c kism ki buayi kare,2302,3.4590013673723914
+Brinjal,aame ki pati kala ho raha hai,2051,3.0818470045528996
+Brinjal,potato me weediside ka prayog kiya hai plant such raha hai,1743,2.6190440414118497
+BovineCowBuffalo,ask about animal husbandry information,25876,39.66095979645326
+BovineCowBuffalo,mosam ki jankari ki jankari,9398,14.404610456294161
+BovineCowBuffalo,aame ki pati kala ho raha hai,6789,10.405714022960318
+BovineCowBuffalo,dhan ki kaun c kism ki buayi kare,6438,9.867725273209386
+BovineCowBuffalo,dhan ki baliya nahi nikal rahi  hai kya kare,4696,7.1977070337047655
+Tomato,pls tell me control of flower dropping in chilli crop,12726,20.223754886692305
+Tomato,plant diseaseattack in crop,7772,12.351015478498553
+Tomato,insect control in  crops,6012,9.554079394844738
+Tomato,dhan ki patti pili padh rahi hai,3533,5.614531354289165
+Tomato,whet ki varieties,3325,5.283984362584623
+Pea Vegetable,pls tell me control of flower dropping in chilli crop,8057,15.3446207172377
+Pea Vegetable,farmer asked query on weather,6258,11.918410878549526
+Pea Vegetable,whet ki varieties,3394,6.4639000514217155
+Pea Vegetable,plant diseaseattack in crop,3090,5.884929628430495
+Pea Vegetable,information about weather forecast of block inmadhaoganj districthardoi,2797,5.326908793113299
+Green Gram Moong Bean Moong,farmer asked query on weather,7267,15.848472291889298
+Green Gram Moong Bean Moong,insect control in  crops,5155,11.242448694741892
+Green Gram Moong Bean Moong,pls tell me control of flower dropping in chilli crop,3905,8.516345713475673
+Green Gram Moong Bean Moong,whet ki varieties,3622,7.899155998517
+Green Gram Moong Bean Moong,information about sowing time in any vegetable crop,2871,6.261313327372255
+Sunnhemp Patua,information about in sugarcane crop,9680,21.49105279516895
+Sunnhemp Patua,ganne me keeda laga raha hai,7624,16.926424226277696
+Sunnhemp Patua,insect control in  crops,5848,12.983437680387194
+Sunnhemp Patua,information about control of top borer and stem borer in sugarcane crop,4522,10.039518671462192
+Sunnhemp Patua,potato me weediside ka prayog kiya hai plant such raha hai,2919,6.480618089782869
+Bengal Gram GramChick PeaKabuliChana,pls tell me control of flower dropping in chilli crop,4744,10.618439017839156
+Bengal Gram GramChick PeaKabuliChana,insect control in  crops,4741,10.611724153367504
+Bengal Gram GramChick PeaKabuliChana,plant diseaseattack in crop,2683,6.005327125814177
+Bengal Gram GramChick PeaKabuliChana,farmer asked query on weather,2561,5.732255970633659
+Bengal Gram GramChick PeaKabuliChana,dhan me ki kida laga hai,2459,5.503950578597489
+Onion,plant diseaseattack in crop,9028,20.210884506033267
+Onion,dhan ki patti pili padh rahi hai,4402,9.854709082361369
+Onion,pls tell me control of flower dropping in chilli crop,3419,7.6540777720566835
+Onion,dhan ki kaun c kism ki buayi kare,2710,6.066847254247913
+Onion,tell me weed control in wheat crop,2391,5.35270545568515
+Groundnut pea nutmung phalli,farmer asked query on weather,14853,39.44181847150672
+Groundnut pea nutmung phalli,tell me weed control in wheat crop,2449,6.503266238249508
+Groundnut pea nutmung phalli,insect control in  crops,1990,5.284401720749908
+Groundnut pea nutmung phalli,pls tell me control of flower dropping in chilli crop,1949,5.175527112432949
+Groundnut pea nutmung phalli,plant diseaseattack in crop,1566,4.158478942057465
+BhindiOkraLadysfinger,insect control in  crops,5968,15.985000669612964
+BhindiOkraLadysfinger,pls tell me control of flower dropping in chilli crop,3164,8.474621668675505
+BhindiOkraLadysfinger,dhan me ki kida laga hai,3136,8.399625016740323
+BhindiOkraLadysfinger,whet ki varieties,2982,7.9871434310968255
+BhindiOkraLadysfinger,dhan ki kaun c kism ki buayi kare,2452,6.567563948038034
+Pearl Millet BajraBulrush MilletSpiked Millet,farmer asked query on weather,9897,27.978967008735477
+Pearl Millet BajraBulrush MilletSpiked Millet,whet ki varieties,2781,7.861928589602239
+Pearl Millet BajraBulrush MilletSpiked Millet,tell me weed control in wheat crop,2622,7.412433211771691
+Pearl Millet BajraBulrush MilletSpiked Millet,information about sowing time in any vegetable crop,1764,4.986854380459673
+Pearl Millet BajraBulrush MilletSpiked Millet,information about weather forecast of block in districtjaunpur,1718,4.856811692533854
+Banana,pls tell me control of flower dropping in chilli crop,6726,23.098320684089426
+Banana,dhan ki kaun c kism ki buayi kare,2054,7.05381366118342
+Banana,insect control in  crops,2032,6.978261616126927
+Banana,plant diseaseattack in crop,2014,6.916446306535253
+Banana,dhan ki baliya nahi nikal rahi  hai kya kare,1572,5.398537037672997
+Papaya,whet ki varieties,3663,13.500663423264042
+Papaya,pls tell me control of flower dropping in chilli crop,3565,13.139466312840925
+Papaya,plant portection in mango,3111,11.466165413533833
+Papaya,potatao ki variety ki jankri,2079,7.662538699690402
+Papaya,plant diseaseattack in crop,1871,6.8959162612413385
+Bottle Gourd ,information about pest management in bottle gourd,13280,50.17379477104428
+Bottle Gourd ,aame ki pati kala ho raha hai,1581,5.973250717847967
+Bottle Gourd ,dhan ki kaun c kism ki buayi kare,1360,5.1382801873961
+Bottle Gourd ,dhan me ki kida laga hai,1251,4.72646214296509
+Bottle Gourd ,farmer asked query on weather,1200,4.533776635937736
+Cauliflower,pls tell me control of flower dropping in chilli crop,4069,15.520463821184727
+Cauliflower,insect control in  crops,3092,11.793874203760918
+Cauliflower,whet ki varieties,2252,8.58984628294618
+Cauliflower,farmer asked query on weather,2193,8.364801464698477
+Cauliflower,plant diseaseattack in crop,1831,6.98401800358546
+Indian rapeseed and mustard yellow sarson,information about in mustard crop,8245,31.857347088597816
+Indian rapeseed and mustard yellow sarson,dhan me ki kida laga hai,2498,9.651868165835943
+Indian rapeseed and mustard yellow sarson,dhan ki kaun c kism ki buayi kare,2478,9.574591399095862
+Indian rapeseed and mustard yellow sarson,potatao ki variety ki jankri,2209,8.535218886441791
+Indian rapeseed and mustard yellow sarson,whet ki varieties,1881,7.267879911904486
+Pigeon pea red gramarhartur,pls tell me control of flower dropping in chilli crop,2921,12.663111804742705
+Pigeon pea red gramarhartur,insect control in  crops,2670,11.574977240213292
+Pigeon pea red gramarhartur,whet ki varieties,1946,8.436294273204144
+Pigeon pea red gramarhartur,dhan ki kaun c kism ki buayi kare,1782,7.725321888412018
+Pigeon pea red gramarhartur,dhan me ki kida laga hai,1464,6.346729093510209
+Cucumber,insect control in  crops,4135,18.262520978712125
+Cucumber,pls tell me control of flower dropping in chilli crop,3662,16.17348290787033
+Cucumber,plant diseaseattack in crop,1583,6.991431852309867
+Cucumber,whet ki varieties,1307,5.7724582634042925
+Cucumber,dhan ki kaun c kism ki buayi kare,1190,5.255719459411712
+Garlic,plant diseaseattack in crop,6303,29.255047574843353
+Garlic,dhan ki patti pili padh rahi hai,1719,7.978649338593641
+Garlic,pls tell me control of flower dropping in chilli crop,1404,6.516593177071246
+Garlic,information about nutrient management in crop,1266,5.876073334880482
+Garlic,information about fertilizer dose im wheat crop,1014,4.7064284056625665
+Maize (Makka),farmer asked query on weather,9152,44.70277927025839
+Maize (Makka),insect control in  crops,2516,12.28935671372051
+Maize (Makka),pls tell me control of flower dropping in chilli crop,1505,7.35114541102916
+Maize (Makka),whet ki varieties,1251,6.110486982855468
+Maize (Makka),information about control of top borer and stem borer in sugarcane crop,776,3.7903580325306505
+Lentil Masur,pls tell me control of flower dropping in chilli crop,1826,8.93084221852685
+Lentil Masur,farmer asked query on weather,1737,8.495549251687372
+Lentil Masur,tell me weed control in wheat crop,1553,7.595617724738335
+Lentil Masur,plant diseaseattack in crop,1478,7.228797808862369
+Lentil Masur,dhan ki kaun c kism ki buayi kare,1283,6.275066027584858
+Sesame GingellyTilSesamum,farmer asked query on weather,2020,11.215368385986341
+Sesame GingellyTilSesamum,information about sowing time in any vegetable crop,1493,8.289378713008718
+Sesame GingellyTilSesamum,tell me weed control in wheat crop,1406,7.806340569651879
+Sesame GingellyTilSesamum,whet ki varieties,1390,7.71750596857476
+Sesame GingellyTilSesamum,insect control in  crops,1066,5.918605296763089
+Sugarcane (Noble Cane),information about in sugarcane crop,8028,45.50246556708043
+Sugarcane (Noble Cane),farmer asked query on weather,7412,42.010995862381684
+Sugarcane (Noble Cane),information about control of top borer and stem borer in sugarcane crop,1571,8.904381341041773
+Sugarcane (Noble Cane),insect control in  crops,110,0.6234767329819192
+Sugarcane (Noble Cane),pleas give information of govt scheme,59,0.3344102476903021
+Guava,pls tell me control of flower dropping in chilli crop,4269,24.799581735796444
+Guava,insect control in  crops,3971,23.06843267108168
+Guava,aame ki pati kala ho raha hai,1324,7.691413965377018
+Guava,dhan me ki kida laga hai,1020,5.925409550365981
+Guava,plant diseaseattack in crop,871,5.059835018008598
+Bitter Gourd,information about pest management in bottle gourd,7706,45.68955294675679
+Bitter Gourd,insect control in  crops,957,5.6741373176805405
+Bitter Gourd,dhan ki kaun c kism ki buayi kare,913,5.413257441005573
+Bitter Gourd,dhan me ki kida laga hai,749,4.440886991580695
+Bitter Gourd,dhan ki patti pili padh rahi hai,717,4.2511561721807185
+Peas field peas garden peasmatar,farmer asked query on weather,2058,13.720914727648509
+Peas field peas garden peasmatar,pls tell me control of flower dropping in chilli crop,1620,10.8007200480032
+Peas field peas garden peasmatar,insect control in  crops,1176,7.840522701513435
+Peas field peas garden peasmatar,dhan ki kaun c kism ki buayi kare,833,5.5537035802386825
+Peas field peas garden peasmatar,potatao ki variety ki jankri,798,5.320354690312688
+Pigeon pea (red gram/arhar/tur),insect control in  crops,6369,42.5735294117647
+Pigeon pea (red gram/arhar/tur),potatao ki variety ki jankri,1408,9.411764705882353
+Pigeon pea (red gram/arhar/tur),whet ki varieties,1095,7.31951871657754
+Pigeon pea (red gram/arhar/tur),potato me weediside ka prayog kiya hai plant such raha hai,932,6.229946524064172
+Pigeon pea (red gram/arhar/tur),dhan me ki kida laga hai,873,5.8355614973262036
+Green Gram (Moong Bean/ Moong),farmer asked query on weather,4021,28.94471638353009
+Green Gram (Moong Bean/ Moong),insect control in  crops,2761,19.874748056435358
+Green Gram (Moong Bean/ Moong),potatao ki variety ki jankri,1601,11.524618485459257
+Green Gram (Moong Bean/ Moong),whet ki varieties,1307,9.408292542470488
+Green Gram (Moong Bean/ Moong),pls tell me control of flower dropping in chilli crop,785,5.650734235531241
+Coriander,pls tell me control of flower dropping in chilli crop,1373,10.14182301669375
+Coriander,insect control in  crops,1144,8.450288078002659
+Coriander,tell me weed control in wheat crop,1110,8.199143152607476
+Coriander,information about sowing time in any vegetable crop,995,7.349682375535529
+Coriander,whet ki varieties,963,7.113310681045945
+Bhindi(Okra/Ladysfinger),insect control in  crops,5121,37.86041697471536
+Bhindi(Okra/Ladysfinger),potatao ki variety ki jankri,1401,10.357829365666124
+Bhindi(Okra/Ladysfinger),whet ki varieties,1085,8.02158805263936
+Bhindi(Okra/Ladysfinger),potato me weediside ka prayog kiya hai plant such raha hai,1048,7.748040810291291
+Bhindi(Okra/Ladysfinger),dhan me ki kida laga hai,925,6.838681058701759
+Lemon,pls tell me control of flower dropping in chilli crop,4660,35.700605224852524
+Lemon,insect control in  crops,1908,14.61732934957481
+Lemon,aame ki pati kala ho raha hai,1369,10.488010419060751
+Lemon,potato me weediside ka prayog kiya hai plant such raha hai,904,6.925610970658086
+Lemon,plant diseaseattack in crop,797,6.105876043821343
+Pumpkin,insect control in  crops,2042,16.55049440752148
+Pumpkin,pls tell me control of flower dropping in chilli crop,2004,16.242502836764466
+Pumpkin,plant diseaseattack in crop,1159,9.393742908088832
+Pumpkin,whet ki varieties,899,7.2864321608040195
+Pumpkin,information about sowing time in any vegetable crop,632,5.122386124169234
+Citrus,pls tell me control of flower dropping in chilli crop,4586,37.43367888335646
+Citrus,aame ki pati kala ho raha hai,1573,12.839768182189209
+Citrus,insect control in  crops,1175,9.591053791527223
+Citrus,plant diseaseattack in crop,853,6.962696922700188
+Citrus,potato me weediside ka prayog kiya hai plant such raha hai,534,4.358827850787691
+Bengal Gram (Gram/Chick Pea/Kabuli/Chana),insect control in  crops,4449,37.04721458905821
+Bengal Gram (Gram/Chick Pea/Kabuli/Chana),dhan me ki kida laga hai,1071,8.918311266550088
+Bengal Gram (Gram/Chick Pea/Kabuli/Chana),potatao ki variety ki jankri,839,6.986426846531768
+Bengal Gram (Gram/Chick Pea/Kabuli/Chana),information about control of top borer and stem borer in sugarcane crop,786,6.545091181613789
+Bengal Gram (Gram/Chick Pea/Kabuli/Chana),pls tell me control of flower dropping in chilli crop,674,5.612457323673911
+Radish,insect control in  crops,2349,20.204713573025977
+Radish,whet ki varieties,1381,11.878548081885429
+Radish,plant diseaseattack in crop,917,7.887493548942026
+Radish,farmer asked query on weather,724,6.227421297092723
+Radish,information about sowing time in any vegetable crop,689,5.926371924995699
+Pointed Gourd,information about pest management in bottle gourd,4521,41.34052670080468
+Pointed Gourd,aame ki pati kala ho raha hai,1001,9.15325530358449
+Pointed Gourd,dhan ki kaun c kism ki buayi kare,531,4.855523043160205
+Pointed Gourd,pls tell me control of flower dropping in chilli crop,530,4.846378931967813
+Pointed Gourd,dhan ki baliya nahi nikal rahi  hai kya kare,452,4.133138258961229
+Tobacco,farmer asked query on weather,4057,38.371323181689206
+Tobacco,information about weather forecast of block shahganj in district,968,9.15539581954034
+Tobacco,plant diseaseattack in crop,767,7.254327059491157
+Tobacco,give information about weather forecast of blockbilsi in districtbudaun,655,6.195025063841862
+Tobacco,information about weather forecast of block in districtjaunpur,633,5.986947886125035
+Pomegranate,pls tell me control of flower dropping in chilli crop,3843,36.743474519552535
+Pomegranate,aame ki pati kala ho raha hai,1948,18.625107562864518
+Pomegranate,insect control in  crops,1447,13.83497466296969
+Pomegranate,dhan me ki kida laga hai,531,5.076967205277751
+Pomegranate,potato me weediside ka prayog kiya hai plant such raha hai,522,4.990916913662874
+Marigold,pls tell me control of flower dropping in chilli crop,2012,19.60058451047248
+Marigold,insect control in  crops,1054,10.267900633219678
+Marigold,whet ki varieties,770,7.501217730150998
+Marigold,dhan ki kaun c kism ki buayi kare,640,6.234778373112518
+Marigold,plant diseaseattack in crop,629,6.127618119824647
+Jack Fruit,pls tell me control of flower dropping in chilli crop,2908,28.459581131336858
+Jack Fruit,plant diseaseattack in crop,1954,19.123116069680957
+Jack Fruit,aame ki pati kala ho raha hai,1627,15.922881190056762
+Jack Fruit,insect control in  crops,593,5.803484047758857
+Jack Fruit,information about the plant protection in crop,537,5.2554315913094545
+Watermelon,pls tell me control of flower dropping in chilli crop,1939,19.550312563016735
+Watermelon,insect control in  crops,1656,16.696914700544465
+Watermelon,whet ki varieties,643,6.483161927808026
+Watermelon,dhan ki kaun c kism ki buayi kare,511,5.152248437184916
+Watermelon,plant diseaseattack in crop,503,5.071587013510789
+Aonla,pls tell me control of flower dropping in chilli crop,3079,32.6303518440017
+Aonla,aame ki pati kala ho raha hai,1451,15.377278507842307
+Aonla,insect control in  crops,807,8.552352691818568
+Aonla,potato me weediside ka prayog kiya hai plant such raha hai,688,7.2912250953793984
+Aonla,dhan ki kaun c kism ki buayi kare,462,4.896142433234421
+Soybean bhat,farmer asked query on weather,2067,26.085310449268047
+Soybean bhat,information about weather forecast of block in districtjaunpur,1269,16.014639071176173
+Soybean bhat,information about sowing time in any vegetable crop,732,9.237758707723371
+Soybean bhat,whet ki varieties,425,5.363452801615346
+Soybean bhat,seed rate and seed treatment,342,4.316002019182232
+Colocasia Arvi Arbi,insect control in  crops,964,12.17325419876247
+Colocasia Arvi Arbi,dhan me ki kida laga hai,778,9.824472786968052
+Colocasia Arvi Arbi,plant diseaseattack in crop,688,8.687965652228817
+Colocasia Arvi Arbi,pls tell me control of flower dropping in chilli crop,625,7.892410657911353
+Colocasia Arvi Arbi,dhan ki kaun c kism ki buayi kare,547,6.907437807804016
+Eculeptous,pls tell me control of flower dropping in chilli crop,1168,14.88656640326281
+Eculeptous,potatao ki variety ki jankri,781,9.954116747387204
+Eculeptous,dhan ki kaun c kism ki buayi kare,722,9.202141218455264
+Eculeptous,dhan ki baliya nahi nikal rahi  hai kya kare,675,8.603109864899313
+Eculeptous,dhan me ki kida laga hai,518,6.602090237063472
+Mushroom,plant diseaseattack in crop,2861,37.09802904564315
+Mushroom,mosam ki jankari ki jankari,903,11.70902489626556
+Mushroom,potatao ki variety ki jankri,902,11.696058091286307
+Mushroom,dhan ki baliya nahi nikal rahi  hai kya kare,541,7.015041493775934
+Mushroom,pleas give information of govt scheme,536,6.950207468879668
+Bail,pls tell me control of flower dropping in chilli crop,2421,32.90296276162
+Bail,aame ki pati kala ho raha hai,1438,19.543354172329437
+Bail,plant diseaseattack in crop,652,8.861103560750204
+Bail,pleas give information of govt scheme,485,6.591465072030443
+Bail,dhan ki baliya nahi nikal rahi  hai kya kare,388,5.273172057624354
+Raya Indian Mustard,information about in mustard crop,2285,32.29225551158847
+Raya Indian Mustard,dhan ki kaun c kism ki buayi kare,569,8.041266252119842
+Raya Indian Mustard,farmer asked query on weather,471,6.656302996042962
+Raya Indian Mustard,whet ki varieties,384,5.426794799321651
+Raya Indian Mustard,potatao ki variety ki jankri,365,5.158281514980215
+Sorghum JowarGreat Millet,farmer asked query on weather,1332,19.298753984352363
+Sorghum JowarGreat Millet,insect control in  crops,801,11.605331787887568
+Sorghum JowarGreat Millet,information about control of top borer and stem borer in sugarcane crop,365,5.288322225441901
+Sorghum JowarGreat Millet,tell me weed control in wheat crop,358,5.186902347145755
+Sorghum JowarGreat Millet,whet ki varieties,319,4.621848739495799
+Capsicum,pls tell me control of flower dropping in chilli crop,1169,17.138249523530273
+Capsicum,plant diseaseattack in crop,716,10.496994575575428
+Capsicum,potato me weediside ka prayog kiya hai plant such raha hai,525,7.696818648292039
+Capsicum,whet ki varieties,410,6.010848849142354
+Capsicum,aame ki pati kala ho raha hai,397,5.820260958803694
+Barley Jau,informaion about of wheat crop variety,749,11.207541523267993
+Barley Jau,mosam ki jankari ki jankari,734,10.983091426006284
+Barley Jau,mausam ki jankari,686,10.264851114768817
+Barley Jau,tell me weed control in wheat crop,579,8.66377375430196
+Barley Jau,dhan ki kaun c kism ki buayi kare,355,5.311985635193775
+Cotton Kapas,insect control in  crops,996,14.91687883780141
+Cotton Kapas,pls tell me control of flower dropping in chilli crop,990,14.827018121911037
+Cotton Kapas,farmer asked query on weather,495,7.413509060955518
+Cotton Kapas,whet ki varieties,434,6.4999251160700915
+Cotton Kapas,plant diseaseattack in crop,375,5.616294743148121
+Poplar,pls tell me control of flower dropping in chilli crop,812,12.181218121812181
+Poplar,dhan me ki kida laga hai,801,12.016201620162017
+Poplar,dhan ki kaun c kism ki buayi kare,670,10.05100510051005
+Poplar,insect control in  crops,586,8.790879087908792
+Poplar,pleas give information of govt scheme,494,7.410741074107411
+Rose,pls tell me control of flower dropping in chilli crop,1354,20.41924294978133
+Rose,insect control in  crops,736,11.09938169205248
+Rose,dhan ki kaun c kism ki buayi kare,498,7.510179460111598
+Rose,dhan me ki kida laga hai,386,5.8211431156688285
+Rose,aame ki pati kala ho raha hai,353,5.323480621324084
+Barseem,information about sowing time in any vegetable crop,745,11.756351585923937
+Barseem,plant diseaseattack in crop,553,8.7265267476724
+Barseem,pls tell me control of flower dropping in chilli crop,541,8.53716269528168
+Barseem,dhan ki kaun c kism ki buayi kare,409,6.454158118983747
+Barseem,pleas give information of govt scheme,401,6.3279154173899315
+Mint,information about  mentha is planted in the crop,681,10.946793120077158
+Mint,insect control in  crops,670,10.769972673203664
+Mint,dhan ki kaun c kism ki buayi kare,657,10.561003054171355
+Mint,dhan ki baliya nahi nikal rahi  hai kya kare,576,9.25896158173927
+Mint,potato me weediside ka prayog kiya hai plant such raha hai,526,8.455232277768847
+Cabbage,insect control in  crops,792,13.797909407665504
+Cabbage,pls tell me control of flower dropping in chilli crop,570,9.930313588850174
+Cabbage,whet ki varieties,482,8.397212543554007
+Cabbage,plant diseaseattack in crop,474,8.257839721254355
+Cabbage,farmer asked query on weather,334,5.818815331010454
+Toria,whet ki varieties,1176,20.53072625698324
+Toria,information about sowing time in any vegetable crop,987,17.231145251396647
+Toria,farmer asked query on weather,362,6.3198324022346375
+Toria,dhan ki kaun c kism ki buayi kare,322,5.621508379888268
+Toria,information about in mustard crop,278,4.853351955307263
+Bottle Gourd,information about pest management in bottle gourd,2882,52.997425524089735
+Bottle Gourd,insect control in  crops,695,12.780433983082014
+Bottle Gourd,potato me weediside ka prayog kiya hai plant such raha hai,466,8.569326958440602
+Bottle Gourd,potatao ki variety ki jankri,367,6.748804707613093
+Bottle Gourd,dhan me ki kida laga hai,247,4.542111070246414
+Musk Melon,insect control in  crops,994,18.30233842754557
+Musk Melon,pls tell me control of flower dropping in chilli crop,797,14.675013809611489
+Musk Melon,plant diseaseattack in crop,403,7.420364573743325
+Musk Melon,whet ki varieties,397,7.3098876818265515
+Musk Melon,dhan ki baliya nahi nikal rahi  hai kya kare,307,5.65273430307494
+Triticale,farmer asked query on weather,826,15.724347991623834
+Triticale,mausam ki jankari,423,8.052541404911478
+Triticale,dhan ki kaun c kism ki buayi kare,369,7.024557395773844
+Triticale,mosam ki jankari ki jankari,320,6.091757091185989
+Triticale,informaion about of wheat crop variety,307,5.844279459356558
+Dhaincha,seed rate and seed treatment,1509,30.276886035312998
+Dhaincha,dhan ki kaun c kism ki buayi kare,730,14.646869983948635
+Dhaincha,information about sowing time in any vegetable crop,514,10.313001605136437
+Dhaincha,farmer asked query on weather,389,7.804975922953451
+Dhaincha,pls tell me control of flower dropping in chilli crop,360,7.223113964686998
+Lentil (Masur),insect control in  crops,943,19.877740303541316
+Lentil (Masur),dhan me ki kida laga hai,527,11.108768971332209
+Lentil (Masur),potatao ki variety ki jankri,469,9.886172006745362
+Lentil (Masur),pleas give information of govt scheme,357,7.525295109612141
+Lentil (Masur),plant diseaseattack in crop,323,6.808600337268128
+fodder sorghum,farmer asked query on weather,754,15.944174244026222
+fodder sorghum,insect control in  crops,630,13.32205540283358
+fodder sorghum,information about control of top borer and stem borer in sugarcane crop,298,6.301543666737154
+fodder sorghum,dhan me ki kida laga hai,267,5.646013956438994
+fodder sorghum,information about sowing time in any vegetable crop,265,5.603721717064918
+Brown Sarson,information about in mustard crop,777,16.53191489361702
+Brown Sarson,whet ki varieties,358,7.617021276595745
+Brown Sarson,dhan ki kaun c kism ki buayi kare,309,6.574468085106383
+Brown Sarson,dhan ki baliya nahi nikal rahi  hai kya kare,297,6.319148936170213
+Brown Sarson,dhan me ki kida laga hai,270,5.74468085106383
+Sponge Gourd,information about pest management in bottle gourd,1971,42.01662758473673
+Sponge Gourd,insect control in  crops,321,6.842890641654231
+Sponge Gourd,dhan me ki kida laga hai,255,5.435941163930932
+Sponge Gourd,aame ki pati kala ho raha hai,205,4.370070347473886
+Sponge Gourd,dhan ki patti pili padh rahi hai,177,3.773182690257941
+Goat,ask about animal husbandry information,2037,43.46991037131882
+Goat,mosam ki jankari ki jankari,868,18.523260776781903
+Goat,dhan ki baliya nahi nikal rahi  hai kya kare,441,9.41101152368758
+Goat,dhan ki kaun c kism ki buayi kare,404,8.621425522833974
+Goat,for information regarding farmer registry,245,5.228339735381989
+Turmeric,information about sowing time in any vegetable crop,892,19.932960893854748
+Turmeric,pls tell me control of flower dropping in chilli crop,515,11.508379888268157
+Turmeric,dhan ki kaun c kism ki buayi kare,491,10.972067039106145
+Turmeric,seed rate and seed treatment,352,7.865921787709497
+Turmeric,mosam ki jankari ki jankari,268,5.988826815642458
+Carrot,whet ki varieties,588,13.604812586765386
+Carrot,information about sowing time in any vegetable crop,582,13.465987968533085
+Carrot,pls tell me control of flower dropping in chilli crop,467,10.80518278574734
+Carrot,dhan ki kaun c kism ki buayi kare,284,6.571031929662194
+Carrot,potatao ki variety ki jankri,264,6.108283202221194
+Black Gram (urd bean),farmer asked query on weather,1912,44.24901643138163
+Black Gram (urd bean),information about sowing time in any vegetable crop,449,10.391113168248092
+Black Gram (urd bean),pls tell me control of flower dropping in chilli crop,438,10.136542467021522
+Black Gram (urd bean),insect control in  crops,371,8.585975468641518
+Black Gram (urd bean),whet ki varieties,252,5.831983337190465
+Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),farmer asked query on weather,1621,38.39412600663193
+Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),whet ki varieties,494,11.700615821885362
+Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),potatao ki variety ki jankri,415,9.829464708668876
+Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),dhan ki kaun c kism ki buayi kare,309,7.318806252960681
+Pearl Millet (Bajra/Bulrush Millet/Spiked Millet),seed rate and seed treatment,221,5.234486025580294
+Oats ,mausam ki jankari,491,11.696045736064793
+Oats ,farmer asked query on weather,435,10.362077179609336
+Oats ,pleas give information of govt scheme,318,7.57503573130062
+Oats ,information about a variety of paddy,197,4.692710814673654
+Oats ,mosam ki jankari ki jankari,170,4.049547403525489
+Ash Gourd Petha,information about pest management in bottle gourd,1346,34.41575044745589
+Ash Gourd Petha,dhan ki kaun c kism ki buayi kare,278,7.108156481718231
+Ash Gourd Petha,information about sowing time in any vegetable crop,277,7.082587573510611
+Ash Gourd Petha,pls tell me control of flower dropping in chilli crop,154,3.937611863973409
+Ash Gourd Petha,insect control in  crops,148,3.784198414727691
+Ginger,information about sowing time in any vegetable crop,853,21.9280205655527
+Ginger,pls tell me control of flower dropping in chilli crop,491,12.622107969151672
+Ginger,dhan ki kaun c kism ki buayi kare,434,11.15681233933162
+Ginger,seed rate and seed treatment,288,7.403598971722365
+Ginger,plant diseaseattack in crop,283,7.275064267352185
+Fresh Water,ask about animal husbandry information,1579,40.98105372437062
+Fresh Water,mosam ki jankari ki jankari,667,17.311186088762003
+Fresh Water,pleas give information of govt scheme,521,13.521930962886064
+Fresh Water,dhan ki kaun c kism ki buayi kare,303,7.864002076304179
+Fresh Water,dhan ki baliya nahi nikal rahi  hai kya kare,169,4.386192577212562
+Beekeeping,mosam ki jankari ki jankari,695,18.834688346883468
+Beekeeping,ask about animal husbandry information,686,18.59078590785908
+Beekeeping,insect control in  crops,331,8.970189701897018
+Beekeeping,pleas give information of govt scheme,296,8.021680216802169
+Beekeeping,dhan ki kaun c kism ki buayi kare,279,7.560975609756097
+POULTRY  FARM ,for information regarding farmer registry,1197,32.54486133768352
+POULTRY  FARM ,mosam ki jankari ki jankari,744,20.22838499184339
+POULTRY  FARM ,ask about animal husbandry information,617,16.77542142468733
+POULTRY  FARM ,dhan ki kaun c kism ki buayi kare,315,8.564437194127244
+POULTRY  FARM ,mausaam ke bare me bataye,198,5.383360522022838
+Aloe Vera,pls tell me control of flower dropping in chilli crop,1005,27.81621920841406
+Aloe Vera,information about sowing time in any vegetable crop,461,12.759479656794905
+Aloe Vera,pleas give information of govt scheme,362,10.019374481040687
+Aloe Vera,potatao ki variety ki jankri,319,8.82922778854138
+Aloe Vera,mosam ki jankari ki jankari,307,8.497093827843898
+Sagoan,pls tell me control of flower dropping in chilli crop,443,13.200238379022647
+Sagoan,dhan ki kaun c kism ki buayi kare,419,12.485101311084625
+Sagoan,insect control in  crops,311,9.266984505363528
+Sagoan,pleas give information of govt scheme,307,9.147794994040524
+Sagoan,dhan ki baliya nahi nikal rahi  hai kya kare,268,7.985697258641239
+Groundnut (pea nut/mung phalli),farmer asked query on weather,2274,68.22682268226824
+Groundnut (pea nut/mung phalli),tell me weed control in wheat crop,173,5.1905190519051905
+Groundnut (pea nut/mung phalli),information about sowing time in any vegetable crop,167,5.0105010501050105
+Groundnut (pea nut/mung phalli),information about fertilizer dose im wheat crop,120,3.6003600360036003
+Groundnut (pea nut/mung phalli),insect control in  crops,117,3.5103510351035103
+Sunflower suryamukhi,information about sowing time in any vegetable crop,715,21.74574209245742
+Sunflower suryamukhi,pls tell me control of flower dropping in chilli crop,389,11.830900243309001
+Sunflower suryamukhi,whet ki varieties,356,10.827250608272507
+Sunflower suryamukhi,seed rate and seed treatment,305,9.276155717761556
+Sunflower suryamukhi,dhan ki kaun c kism ki buayi kare,292,8.880778588807786
+Bovine(Cow/Buffalo),aame ki pati kala ho raha hai,764,23.26431181485993
+Bovine(Cow/Buffalo),dhan ki baliya nahi nikal rahi  hai kya kare,659,20.066991473812422
+Bovine(Cow/Buffalo),ask about animal husbandry information,538,16.38246041412911
+Bovine(Cow/Buffalo),potato me weediside ka prayog kiya hai plant such raha hai,457,13.915956151035322
+Bovine(Cow/Buffalo),potatao ki variety ki jankri,274,8.343483556638246
+Ribbed Gourd Kali Tori,information about pest management in bottle gourd,1347,43.17307692307693
+Ribbed Gourd Kali Tori,aame ki pati kala ho raha hai,179,5.737179487179487
+Ribbed Gourd Kali Tori,pls tell me control of flower dropping in chilli crop,162,5.1923076923076925
+Ribbed Gourd Kali Tori,insect control in  crops,155,4.967948717948718
+Ribbed Gourd Kali Tori,dhan ki kaun c kism ki buayi kare,150,4.807692307692308
+Ridge Gourd,information about pest management in bottle gourd,1541,49.8705501618123
+Ridge Gourd,farmer asked query on weather,142,4.5954692556634305
+Ridge Gourd,pls tell me control of flower dropping in chilli crop,140,4.53074433656958
+Ridge Gourd,information about sowing time in any vegetable crop,122,3.9482200647249193
+Ridge Gourd,insect control in  crops,117,3.7864077669902914
+Tulsi,pls tell me control of flower dropping in chilli crop,416,15.088864708015958
+Tulsi,dhan ki kaun c kism ki buayi kare,334,12.11461733768589
+Tulsi,pleas give information of govt scheme,295,10.700036271309395
+Tulsi,information about sowing time in any vegetable crop,213,7.725788900979326
+Tulsi,seed rate and seed treatment,192,6.9640914036996735
+Beans ,insect control in  crops,422,15.840840840840842
+Beans ,pls tell me control of flower dropping in chilli crop,365,13.701201201201203
+Beans ,plant diseaseattack in crop,211,7.920420420420421
+Beans ,dhan me ki kida laga hai,208,7.807807807807808
+Beans ,information about sowing time in any vegetable crop,164,6.156156156156156
+Satawar,pls tell me control of flower dropping in chilli crop,428,17.306914678528106
+Satawar,dhan ki kaun c kism ki buayi kare,356,14.395471087747675
+Satawar,pleas give information of govt scheme,320,12.939749292357462
+Satawar,mosam ki jankari ki jankari,251,10.149615851192884
+Satawar,information about sowing time in any vegetable crop,222,8.976951071572989
+Pea (Vegetable),farmer asked query on weather,1441,58.79232966136271
+Pea (Vegetable),pls tell me control of flower dropping in chilli crop,462,18.849449204406366
+Pea (Vegetable),plant diseaseattack in crop,188,7.670338637290902
+Pea (Vegetable),information about nutrient management in crop,103,4.202366381068951
+Pea (Vegetable),information about fertilizer dose im wheat crop,77,3.1415748674010606
+Amarphophallus SurankandElephant Foot Yam,insect control in  crops,223,9.154351395730705
+Amarphophallus SurankandElephant Foot Yam,information about sowing time in any vegetable crop,223,9.154351395730705
+Amarphophallus SurankandElephant Foot Yam,plant diseaseattack in crop,168,6.896551724137931
+Amarphophallus SurankandElephant Foot Yam,dhan ki kaun c kism ki buayi kare,152,6.239737274220033
+Amarphophallus SurankandElephant Foot Yam,potatao ki variety ki jankri,150,6.157635467980295
+Litchi,pls tell me control of flower dropping in chilli crop,751,31.50167785234899
+Litchi,insect control in  crops,224,9.395973154362416
+Litchi,aame ki pati kala ho raha hai,198,8.305369127516778
+Litchi,plant diseaseattack in crop,129,5.4110738255033555
+Litchi,information about nutrient management in crop,125,5.243288590604027
+Cowpea Vegetable,insect control in  crops,370,15.63160118293198
+Cowpea Vegetable,pls tell me control of flower dropping in chilli crop,331,13.98394592310942
+Cowpea Vegetable,plant diseaseattack in crop,146,6.168145331643431
+Cowpea Vegetable,dhan me ki kida laga hai,135,5.7034220532319395
+Cowpea Vegetable,information about the plant protection in crop,126,5.323193916349809
+Spinach Palak,insect control in  crops,272,11.496196111580726
+Spinach Palak,farmer asked query on weather,267,11.28486897717667
+Spinach Palak,pls tell me control of flower dropping in chilli crop,230,9.721048182586644
+Spinach Palak,tell me weed control in wheat crop,199,8.410819949281487
+Spinach Palak,plant diseaseattack in crop,191,8.072696534234995
+Acid Lime,pls tell me control of flower dropping in chilli crop,802,36.24039765024853
+Acid Lime,aame ki pati kala ho raha hai,228,10.302756439222774
+Acid Lime,insect control in  crops,182,8.224130140081337
+Acid Lime,plant diseaseattack in crop,129,5.829191143244464
+Acid Lime,information about nutrient management in crop,109,4.925440578400361
+Neem,pls tell me control of flower dropping in chilli crop,267,13.390170511534604
+Neem,information about  mentha is planted in the crop,191,9.578736208625878
+Neem,plant diseaseattack in crop,180,9.027081243731194
+Neem,mosam ki jankari ki jankari,165,8.274824473420262
+Neem,dhan ki kaun c kism ki buayi kare,148,7.422266800401204
+FingerMillet  RagiMandika,weather information,303,16.00633914421553
+FingerMillet  RagiMandika,mausam ki jankari,176,9.297411516111993
+FingerMillet  RagiMandika,informaion about of wheat crop variety,137,7.237189646064449
+FingerMillet  RagiMandika,seed rate and seed treatment,134,7.078711040676175
+FingerMillet  RagiMandika,information about sowing time in any vegetable crop,100,5.282620179609086
+Buck Wheat Kaspat,mausam ki jankari,517,27.930848190167477
+Buck Wheat Kaspat,weather information,250,13.50621285791464
+Buck Wheat Kaspat,informaion about of wheat crop variety,134,7.239330091842247
+Buck Wheat Kaspat,pleas give information of govt scheme,112,6.0507833603457595
+Buck Wheat Kaspat,information about a variety of paddy,82,4.430037817396002
+Faba Bean Horse Beanwindsor Bean,weather information,919,50.550055005500546
+Faba Bean Horse Beanwindsor Bean,seed rate and seed treatment,148,8.14081408140814
+Faba Bean Horse Beanwindsor Bean,mosam ki jankari ki jankari,68,3.74037403740374
+Faba Bean Horse Beanwindsor Bean,mausam ki jankari,55,3.0253025302530254
+Faba Bean Horse Beanwindsor Bean,dhan ki kaun c kism ki buayi kare,48,2.6402640264026402
+Safed Musli,dhan ki kaun c kism ki buayi kare,270,15.126050420168067
+Safed Musli,pleas give information of govt scheme,220,12.324929971988796
+Safed Musli,pls tell me control of flower dropping in chilli crop,213,11.932773109243698
+Safed Musli,mosam ki jankari ki jankari,187,10.476190476190476
+Safed Musli,dhan ki baliya nahi nikal rahi  hai kya kare,183,10.252100840336134
+Other,pls tell me control of flower dropping in chilli crop,153,9.340659340659341
+Other,farmer asked query on weather,146,8.913308913308914
+Other,dhan ki kaun c kism ki buayi kare,142,8.669108669108669
+Other,mosam ki jankari ki jankari,132,8.058608058608058
+Other,pleas give information of govt scheme,121,7.3870573870573875
+Common Millet PanivaraguChenaProso MilletHogm,weather information,441,26.972477064220186
+Common Millet PanivaraguChenaProso MilletHogm,mausam ki jankari,243,14.862385321100918
+Common Millet PanivaraguChenaProso MilletHogm,informaion about of wheat crop variety,68,4.159021406727828
+Common Millet PanivaraguChenaProso MilletHogm,pleas give information of govt scheme,67,4.097859327217125
+Common Millet PanivaraguChenaProso MilletHogm,seed rate and seed treatment,63,3.853211009174312
+Sorghum (Jowar/Great Millet),farmer asked query on weather,622,38.136112814224404
+Sorghum (Jowar/Great Millet),insect control in  crops,219,13.42734518700184
+Sorghum (Jowar/Great Millet),potatao ki variety ki jankri,101,6.192519926425506
+Sorghum (Jowar/Great Millet),tell me weed control in wheat crop,100,6.131207847946046
+Sorghum (Jowar/Great Millet),whet ki varieties,89,5.456774984671981
+Fenugreek,information about sowing time in any vegetable crop,232,15.045395590142672
+Fenugreek,plant diseaseattack in crop,164,10.635538261997405
+Fenugreek,pls tell me control of flower dropping in chilli crop,158,10.246433203631646
+Fenugreek,seed rate and seed treatment,140,9.07911802853437
+Fenugreek,tell me weed control in wheat crop,123,7.976653696498054
+Linseed alsi,whet ki varieties,169,10.99544567338972
+Linseed alsi,information about sowing time in any vegetable crop,147,9.56408588158751
+Linseed alsi,information about in mustard crop,132,8.588158750813273
+Linseed alsi,dhan ki kaun c kism ki buayi kare,103,6.701366297983085
+Linseed alsi,potatao ki variety ki jankri,86,5.595315549772284
+Sweet Potato,information about the control of blight potato in crop,467,30.62295081967213
+Sweet Potato,information about sowing time in any vegetable crop,113,7.40983606557377
+Sweet Potato,insect control in  crops,100,6.557377049180328
+Sweet Potato,information about fertilizer dose im wheat crop,99,6.491803278688526
+Sweet Potato,dhan ki kaun c kism ki buayi kare,80,5.245901639344262
+lobia ,insect control in  crops,327,21.8
+lobia ,pls tell me control of flower dropping in chilli crop,207,13.8
+lobia ,plant diseaseattack in crop,99,6.6000000000000005
+lobia ,information about the plant protection in crop,96,6.4
+lobia ,dhan me ki kida laga hai,85,5.666666666666666
+Saffron,pls tell me control of flower dropping in chilli crop,249,16.756393001345895
+Saffron,information about sowing time in any vegetable crop,236,15.88156123822342
+Saffron,seed rate and seed treatment,138,9.286675639300135
+Saffron,dhan ki kaun c kism ki buayi kare,137,9.219380888290713
+Saffron,dhan ki baliya nahi nikal rahi  hai kya kare,93,6.258411843876177
+French Bean,pls tell me control of flower dropping in chilli crop,165,11.49025069637883
+French Bean,information about sowing time in any vegetable crop,149,10.376044568245126
+French Bean,insect control in  crops,132,9.192200557103064
+French Bean,whet ki varieties,109,7.590529247910864
+French Bean,dhan ki kaun c kism ki buayi kare,100,6.963788300835655
+BAJRA NAPIER HYBRID,whet ki varieties,209,14.554317548746518
+BAJRA NAPIER HYBRID,farmer asked query on weather,203,14.13649025069638
+BAJRA NAPIER HYBRID,information about sowing time in any vegetable crop,102,7.103064066852367
+BAJRA NAPIER HYBRID,insect control in  crops,101,7.0334261838440115
+BAJRA NAPIER HYBRID,pls tell me control of flower dropping in chilli crop,86,5.988857938718663
+Grape,pls tell me control of flower dropping in chilli crop,357,24.912770411723656
+Grape,aame ki pati kala ho raha hai,185,12.909979064898813
+Grape,dhan ki kaun c kism ki buayi kare,125,8.722958827634333
+Grape,insect control in  crops,96,6.699232379623169
+Grape,plant diseaseattack in crop,85,5.931612002791347
+Pig,ask about animal husbandry information,510,35.94080338266385
+Pig,mosam ki jankari ki jankari,279,19.661733615221987
+Pig,dhan ki kaun c kism ki buayi kare,157,11.064129668780831
+Pig,dhan ki baliya nahi nikal rahi  hai kya kare,137,9.654686398872446
+Pig,potatao ki variety ki jankri,74,5.214940098661029
+Guar,dhan ki kaun c kism ki buayi kare,217,15.29245947850599
+Guar,dhan ki baliya nahi nikal rahi  hai kya kare,153,10.782241014799155
+Guar,whet ki varieties,128,9.020436927413671
+Guar,potatao ki variety ki jankri,106,7.470049330514447
+Guar,aame ki pati kala ho raha hai,98,6.906272022551092
+Melon,pls tell me control of flower dropping in chilli crop,237,17.236363636363635
+Melon,insect control in  crops,200,14.545454545454545
+Melon,aame ki pati kala ho raha hai,96,6.981818181818182
+Melon,plant diseaseattack in crop,95,6.909090909090909
+Melon,farmer asked query on weather,79,5.745454545454545
+African Sarson,dhan me ki kida laga hai,204,15.099925980754996
+African Sarson,potatao ki variety ki jankri,155,11.472982975573649
+African Sarson,dhan ki kaun c kism ki buayi kare,147,10.880829015544041
+African Sarson,dhan ki baliya nahi nikal rahi  hai kya kare,108,7.994078460399703
+African Sarson,whet ki varieties,98,7.253886010362693
+Marine,ask about animal husbandry information,383,29.125475285171103
+Marine,mosam ki jankari ki jankari,304,23.11787072243346
+Marine,pleas give information of govt scheme,191,14.52471482889734
+Marine,dhan ki kaun c kism ki buayi kare,131,9.961977186311787
+Marine,dhan ki baliya nahi nikal rahi  hai kya kare,72,5.475285171102662
+Oil palm,potatao ki variety ki jankri,255,19.39163498098859
+Oil palm,insect control in  crops,195,14.82889733840304
+Oil palm,tell me weed control in wheat crop,115,8.745247148288973
+Oil palm,seed rate and seed treatment,100,7.604562737642586
+Oil palm,whet ki varieties,91,6.920152091254753
+Beet Root Garden BeetStock Beet,information about sowing time in any vegetable crop,240,18.561484918793504
+Beet Root Garden BeetStock Beet,pls tell me control of flower dropping in chilli crop,168,12.993039443155451
+Beet Root Garden BeetStock Beet,whet ki varieties,102,7.888631090487238
+Beet Root Garden BeetStock Beet,seed rate and seed treatment,80,6.187161639597835
+Beet Root Garden BeetStock Beet,dhan ki kaun c kism ki buayi kare,78,6.0324825986078885
+Ber,pls tell me control of flower dropping in chilli crop,265,21.370967741935484
+Ber,insect control in  crops,221,17.82258064516129
+Ber,pleas give information of govt scheme,136,10.967741935483872
+Ber,plant diseaseattack in crop,119,9.596774193548386
+Ber,aame ki pati kala ho raha hai,69,5.564516129032258
+Gladiolus,pls tell me control of flower dropping in chilli crop,150,12.51042535446205
+Gladiolus,information about the plant protection in crop,149,12.427022518765638
+Gladiolus,information about sowing time in any vegetable crop,86,7.172643869891576
+Gladiolus,insect control in  crops,84,7.005838198498749
+Gladiolus,plant diseaseattack in crop,82,6.839032527105922
+Sugar Beet,information about in sugarcane crop,269,22.510460251046023
+Sugar Beet,dhan ki kaun c kism ki buayi kare,87,7.280334728033473
+Sugar Beet,ganne me keeda laga raha hai,80,6.694560669456067
+Sugar Beet,farmer asked query on weather,80,6.694560669456067
+Sugar Beet,weather information,74,6.192468619246862
+Jamun,pls tell me control of flower dropping in chilli crop,291,24.371859296482413
+Jamun,insect control in  crops,150,12.562814070351758
+Jamun,aame ki pati kala ho raha hai,102,8.542713567839195
+Jamun,dhan me ki kida laga hai,78,6.532663316582915
+Jamun,information about nutrient management in crop,75,6.281407035175879
+OPIUM POPY,farmer asked query on weather,286,24.761904761904763
+OPIUM POPY,pls tell me control of flower dropping in chilli crop,213,18.441558441558442
+OPIUM POPY,plant diseaseattack in crop,118,10.216450216450216
+OPIUM POPY,pleas give information of govt scheme,117,10.129870129870131
+OPIUM POPY,give information about weather forecast of blockbilsi in districtbudaun,60,5.194805194805195
+Barnyard Millet KundiraivlliSawan,mausam ki jankari,286,25.309734513274336
+Barnyard Millet KundiraivlliSawan,informaion about of wheat crop variety,97,8.584070796460178
+Barnyard Millet KundiraivlliSawan,mosam ki jankari ki jankari,97,8.584070796460178
+Barnyard Millet KundiraivlliSawan,information about the control of blight potato in crop,56,4.95575221238938
+Barnyard Millet KundiraivlliSawan,weather information,50,4.424778761061947
+Khesari chickling vetch grass pea,information about weather forecast of block in districtjaunpur,118,12.127440904419322
+Khesari chickling vetch grass pea,information about weather forecast of block inmadhaoganj districthardoi,110,11.30524152106886
+Khesari chickling vetch grass pea,weather information,81,8.324768756423433
+Khesari chickling vetch grass pea,plant diseaseattack in crop,69,7.091469681397738
+Khesari chickling vetch grass pea,whet ki varieties,57,5.858170606372045
+fodder maize ,pls tell me control of flower dropping in chilli crop,109,11.33056133056133
+fodder maize ,dhan ki kaun c kism ki buayi kare,94,9.771309771309772
+fodder maize ,whet ki varieties,87,9.043659043659044
+fodder maize ,insect control in  crops,77,8.004158004158004
+fodder maize ,information about sowing time in any vegetable crop,72,7.484407484407485
+Rajma french bean,information about sowing time in any vegetable crop,255,26.5625
+Rajma french bean,whet ki varieties,91,9.479166666666666
+Rajma french bean,dhan ki kaun c kism ki buayi kare,88,9.166666666666666
+Rajma french bean,seed rate and seed treatment,82,8.541666666666666
+Rajma french bean,pls tell me control of flower dropping in chilli crop,67,6.979166666666667
+Castor Rehri Rendi Arandi ,weather information,226,23.71458551941238
+Castor Rehri Rendi Arandi ,pleas give information of govt scheme,86,9.024134312696747
+Castor Rehri Rendi Arandi ,seed rate and seed treatment,63,6.610703043022036
+Castor Rehri Rendi Arandi ,mausam ki jankari,58,6.08604407135362
+Castor Rehri Rendi Arandi ,whet ki varieties,54,5.6663168940188875
+Sandal Wood,pls tell me control of flower dropping in chilli crop,383,41.227125941872984
+Sandal Wood,pleas give information of govt scheme,160,17.222820236813778
+Sandal Wood,dhan ki kaun c kism ki buayi kare,71,7.642626480086114
+Sandal Wood,for information regarding farmer registry,61,6.566200215285253
+Sandal Wood,mosam ki jankari ki jankari,38,4.090419806243272
+POULTRY  FARM,mosam ki jankari ki jankari,338,36.50107991360691
+POULTRY  FARM,dhan ki baliya nahi nikal rahi  hai kya kare,213,23.002159827213823
+POULTRY  FARM,potatao ki variety ki jankri,117,12.63498920086393
+POULTRY  FARM,dhan ki kaun c kism ki buayi kare,81,8.74730021598272
+POULTRY  FARM,mausaam ke bare me bataye,52,5.615550755939525
+Mosambi,pls tell me control of flower dropping in chilli crop,311,34.10087719298245
+Mosambi,insect control in  crops,98,10.74561403508772
+Mosambi,aame ki pati kala ho raha hai,77,8.442982456140351
+Mosambi,plant diseaseattack in crop,67,7.346491228070176
+Mosambi,pleas give information of govt scheme,50,5.482456140350877
+Sesame (Gingelly/Til)/Sesamum,farmer asked query on weather,392,44.14414414414414
+Sesame (Gingelly/Til)/Sesamum,information about sowing time in any vegetable crop,189,21.283783783783782
+Sesame (Gingelly/Til)/Sesamum,whet ki varieties,96,10.81081081081081
+Sesame (Gingelly/Til)/Sesamum,seed rate and seed treatment,64,7.207207207207207
+Sesame (Gingelly/Til)/Sesamum,tell me weed control in wheat crop,52,5.8558558558558556
+Teak,pls tell me control of flower dropping in chilli crop,187,21.22587968217934
+Teak,dhan ki kaun c kism ki buayi kare,78,8.853575482406356
+Teak,pleas give information of govt scheme,68,7.71850170261067
+Teak,dhan ki baliya nahi nikal rahi  hai kya kare,63,7.150964812712826
+Teak,insect control in  crops,51,5.788876276958002
+Curry Leaf,dhan ki kaun c kism ki buayi kare,175,20.04581901489118
+Curry Leaf,dhan me ki kida laga hai,88,10.080183276059564
+Curry Leaf,aame ki pati kala ho raha hai,79,9.049255441008018
+Curry Leaf,dhan ki baliya nahi nikal rahi  hai kya kare,79,9.049255441008018
+Curry Leaf,dhan ki patti pili padh rahi hai,71,8.132875143184421
+Orange,pls tell me control of flower dropping in chilli crop,323,38.13459268004723
+Orange,insect control in  crops,90,10.625737898465172
+Orange,plant diseaseattack in crop,75,8.85478158205431
+Orange,aame ki pati kala ho raha hai,69,8.146399055489963
+Orange,information about the plant protection in crop,46,5.430932703659976
+Cluster Bean,pls tell me control of flower dropping in chilli crop,95,11.32300357568534
+Cluster Bean,insect control in  crops,75,8.939213349225268
+Cluster Bean,information about sowing time in any vegetable crop,69,8.224076281287248
+Cluster Bean,whet ki varieties,65,7.747318235995232
+Cluster Bean,dhan ki kaun c kism ki buayi kare,59,7.032181168057211
+Peach,pls tell me control of flower dropping in chilli crop,266,32.4390243902439
+Peach,insect control in  crops,141,17.195121951219512
+Peach,aame ki pati kala ho raha hai,77,9.390243902439025
+Peach,dhan me ki kida laga hai,55,6.707317073170732
+Peach,plant diseaseattack in crop,50,6.097560975609756
+Horse Gram kulthikultha,weather information,267,32.92231812577066
+Horse Gram kulthikultha,dhan ki kaun c kism ki buayi kare,49,6.041923551171394
+Horse Gram kulthikultha,seed rate and seed treatment,38,4.68557336621455
+Horse Gram kulthikultha,dhan me ki kida laga hai,37,4.562268803945746
+Horse Gram kulthikultha,mausaam ke bare me bataye,32,3.945745992601726
+ARUM ,mausam ki jankari,111,13.703703703703704
+ARUM ,weather information,75,9.25925925925926
+ARUM ,pls tell me control of flower dropping in chilli crop,60,7.4074074074074066
+ARUM ,farmer asked query on weather,58,7.160493827160494
+ARUM ,dhan me ki kida laga hai,43,5.3086419753086425
+Broccoli,pls tell me control of flower dropping in chilli crop,102,12.670807453416149
+Broccoli,information about sowing time in any vegetable crop,72,8.944099378881988
+Broccoli,mausam ki jankari,60,7.453416149068323
+Broccoli,dhan ki kaun c kism ki buayi kare,46,5.714285714285714
+Broccoli,potatao ki variety ki jankri,45,5.590062111801243
+"Bovine(Cow,Buffalo)",ask about animal husbandry information,655,81.875
+"Bovine(Cow,Buffalo)",information about pradhanmantri kisan samman nidhi yojna,46,5.75
+"Bovine(Cow,Buffalo)",for information regarding farmer registry,28,3.5000000000000004
+"Bovine(Cow,Buffalo)",pleas give information of govt scheme,27,3.375
+"Bovine(Cow,Buffalo)",dhan ki kaun c kism ki buayi kare,8,1.0
+Fennel,information about sowing time in any vegetable crop,114,14.709677419354838
+Fennel,insect control in  crops,91,11.741935483870968
+Fennel,pls tell me control of flower dropping in chilli crop,66,8.516129032258064
+Fennel,seed rate and seed treatment,61,7.870967741935483
+Fennel,whet ki varieties,56,7.225806451612904
+Stevia,pls tell me control of flower dropping in chilli crop,172,23.243243243243246
+Stevia,pleas give information of govt scheme,123,16.62162162162162
+Stevia,information about sowing time in any vegetable crop,73,9.864864864864865
+Stevia,dhan ki kaun c kism ki buayi kare,61,8.243243243243244
+Stevia,mosam ki jankari ki jankari,55,7.4324324324324325
+Cold Water,ask about animal husbandry information,321,43.49593495934959
+Cold Water,mosam ki jankari ki jankari,108,14.634146341463413
+Cold Water,pleas give information of govt scheme,87,11.788617886178862
+Cold Water,dhan ki kaun c kism ki buayi kare,48,6.504065040650407
+Cold Water,dhan ki baliya nahi nikal rahi  hai kya kare,28,3.7940379403794036
+Sudan Grass,insect control in  crops,96,13.096862210095498
+Sudan Grass,whet ki varieties,60,8.185538881309688
+Sudan Grass,farmer asked query on weather,56,7.639836289222374
+Sudan Grass,pls tell me control of flower dropping in chilli crop,55,7.503410641200546
+Sudan Grass,information about sowing time in any vegetable crop,46,6.2755798090040935
+AmaranthusGrain Amaranthus,dhan ki kaun c kism ki buayi kare,68,9.289617486338798
+AmaranthusGrain Amaranthus,mausaam ke bare me bataye,68,9.289617486338798
+AmaranthusGrain Amaranthus,mausam ki jankari,65,8.879781420765028
+AmaranthusGrain Amaranthus,dhan me ki kida laga hai,64,8.743169398907105
+AmaranthusGrain Amaranthus,pls tell me control of flower dropping in chilli crop,51,6.967213114754098
+Napier Grass,pls tell me control of flower dropping in chilli crop,104,14.40443213296399
+Napier Grass,information about sowing time in any vegetable crop,103,14.265927977839334
+Napier Grass,seed rate and seed treatment,67,9.279778393351801
+Napier Grass,whet ki varieties,56,7.756232686980609
+Napier Grass,pleas give information of govt scheme,48,6.64819944598338
+Soybean (bhat),farmer asked query on weather,518,73.26732673267327
+Soybean (bhat),information about sowing time in any vegetable crop,59,8.345120226308344
+Soybean (bhat),whet ki varieties,29,4.101838755304102
+Soybean (bhat),tell me weed control in wheat crop,26,3.6775106082036775
+Soybean (bhat),seed rate and seed treatment,20,2.828854314002829
+Strawberry,pls tell me control of flower dropping in chilli crop,243,34.61538461538461
+Strawberry,information about sowing time in any vegetable crop,107,15.242165242165242
+Strawberry,whet ki varieties,49,6.98005698005698
+Strawberry,potatao ki variety ki jankri,39,5.555555555555555
+Strawberry,dhan ki baliya nahi nikal rahi  hai kya kare,25,3.561253561253561
+Broad Bean,pls tell me control of flower dropping in chilli crop,76,11.030478955007258
+Broad Bean,insect control in  crops,62,8.99854862119013
+Broad Bean,mausam ki jankari,50,7.256894049346879
+Broad Bean,dhan me ki kida laga hai,49,7.111756168359943
+Broad Bean,dhan ki kaun c kism ki buayi kare,40,5.805515239477503
+Sapota,pls tell me control of flower dropping in chilli crop,377,55.19765739385066
+Sapota,aame ki pati kala ho raha hai,59,8.638360175695462
+Sapota,information about nutrient management in crop,34,4.978038067349927
+Sapota,information about fertilizer dose im wheat crop,31,4.538799414348463
+Sapota,plant diseaseattack in crop,28,4.099560761346998
+Hibiscus Gurhal,insect control in  crops,206,31.402439024390244
+Hibiscus Gurhal,pls tell me control of flower dropping in chilli crop,107,16.3109756097561
+Hibiscus Gurhal,dhan me ki kida laga hai,67,10.213414634146341
+Hibiscus Gurhal,plant diseaseattack in crop,67,10.213414634146341
+Hibiscus Gurhal,information about the plant protection in crop,41,6.25
+Little Millet SamaiKutkikodo-kutki,farmer asked query on weather,89,13.928012519561817
+Little Millet SamaiKutkikodo-kutki,weather information,76,11.89358372456964
+Little Millet SamaiKutkikodo-kutki,information about sowing time in any vegetable crop,39,6.103286384976526
+Little Millet SamaiKutkikodo-kutki,dhan ki kaun c kism ki buayi kare,33,5.164319248826291
+Little Millet SamaiKutkikodo-kutki,pls tell me control of flower dropping in chilli crop,31,4.851330203442879
+Lab Lab,insect control in  crops,139,22.491909385113267
+Lab Lab,pls tell me control of flower dropping in chilli crop,94,15.210355987055015
+Lab Lab,plant diseaseattack in crop,56,9.06148867313916
+Lab Lab,information about the plant protection in crop,49,7.9288025889967635
+Lab Lab,dhan me ki kida laga hai,42,6.796116504854369
+Chapan Kaddu,dhan ki kaun c kism ki buayi kare,80,13.2890365448505
+Chapan Kaddu,aame ki pati kala ho raha hai,74,12.29235880398671
+Chapan Kaddu,pls tell me control of flower dropping in chilli crop,55,9.136212624584719
+Chapan Kaddu,insect control in  crops,47,7.807308970099667
+Chapan Kaddu,dhan me ki kida laga hai,39,6.4784053156146175
+Peas (field peas/ garden peas/matar),farmer asked query on weather,317,53.456998313659355
+Peas (field peas/ garden peas/matar),pls tell me control of flower dropping in chilli crop,103,17.36930860033727
+Peas (field peas/ garden peas/matar),plant diseaseattack in crop,31,5.227655986509275
+Peas (field peas/ garden peas/matar),insect control in  crops,19,3.204047217537943
+Peas (field peas/ garden peas/matar),information about fertilizer dose im wheat crop,16,2.6981450252951094
+Dog,ask about animal husbandry information,279,47.20812182741117
+Dog,dhan ki baliya nahi nikal rahi  hai kya kare,82,13.874788494077833
+Dog,dhan ki kaun c kism ki buayi kare,63,10.65989847715736
+Dog,mosam ki jankari ki jankari,53,8.967851099830796
+Dog,aame ki pati kala ho raha hai,36,6.091370558375635
+Duck,mosam ki jankari ki jankari,141,24.268502581755595
+Duck,ask about animal husbandry information,134,23.06368330464716
+Duck,for information regarding farmer registry,94,16.179001721170398
+Duck,dhan ki kaun c kism ki buayi kare,53,9.122203098106713
+Duck,pleas give information of govt scheme,39,6.712564543889846
+Cumin,information about sowing time in any vegetable crop,144,24.870466321243523
+Cumin,pls tell me control of flower dropping in chilli crop,110,18.998272884283246
+Cumin,seed rate and seed treatment,56,9.671848013816927
+Cumin,dhan ki kaun c kism ki buayi kare,37,6.390328151986183
+Cumin,whet ki varieties,36,6.217616580310881
+Italian Millet ThenaiNavaneFoxtail MilletKang,weather information,163,28.900709219858157
+Italian Millet ThenaiNavaneFoxtail MilletKang,mausam ki jankari,49,8.687943262411348
+Italian Millet ThenaiNavaneFoxtail MilletKang,mausaam ke bare me bataye,36,6.382978723404255
+Italian Millet ThenaiNavaneFoxtail MilletKang,pleas give information of govt scheme,32,5.673758865248227
+Italian Millet ThenaiNavaneFoxtail MilletKang,mosam ki jankari ki jankari,24,4.25531914893617
+White Yam,information about sowing time in any vegetable crop,136,24.772313296903462
+White Yam,seed rate and seed treatment,63,11.475409836065573
+White Yam,pls tell me control of flower dropping in chilli crop,60,10.92896174863388
+White Yam,whet ki varieties,43,7.832422586520947
+White Yam,dhan ki kaun c kism ki buayi kare,43,7.832422586520947
+Karan Rai,weather information,52,9.792843691148775
+Karan Rai,mosam ki jankari ki jankari,51,9.6045197740113
+Karan Rai,dhan ki kaun c kism ki buayi kare,47,8.851224105461393
+Karan Rai,information about in mustard crop,40,7.532956685499058
+Karan Rai,whet ki varieties,33,6.214689265536723
+Butter Pea Vegetable,dhan ki kaun c kism ki buayi kare,51,9.622641509433963
+Butter Pea Vegetable,mausam ki jankari,46,8.679245283018867
+Butter Pea Vegetable,pls tell me control of flower dropping in chilli crop,46,8.679245283018867
+Butter Pea Vegetable,mosam ki jankari ki jankari,31,5.849056603773585
+Butter Pea Vegetable,dhan me ki kida laga hai,30,5.660377358490567
+Garden Pea,pls tell me control of flower dropping in chilli crop,70,13.94422310756972
+Garden Pea,farmer asked query on weather,46,9.163346613545817
+Garden Pea,dhan ki kaun c kism ki buayi kare,40,7.968127490039841
+Garden Pea,aame ki pati kala ho raha hai,35,6.97211155378486
+Garden Pea,plant diseaseattack in crop,32,6.374501992031872
+Chestnut,pls tell me control of flower dropping in chilli crop,113,22.50996015936255
+Chestnut,plant diseaseattack in crop,80,15.936254980079681
+Chestnut,insect control in  crops,68,13.545816733067728
+Chestnut,aame ki pati kala ho raha hai,35,6.97211155378486
+Chestnut,information about nutrient management in crop,23,4.581673306772909
+Koronda,insect control in  crops,92,18.62348178137652
+Koronda,dhan ki kaun c kism ki buayi kare,68,13.765182186234817
+Koronda,aame ki pati kala ho raha hai,53,10.728744939271255
+Koronda,plant diseaseattack in crop,44,8.906882591093117
+Koronda,dhan me ki kida laga hai,33,6.680161943319838
+Kodo Millet KodaraVaragu,weather information,101,20.910973084886127
+Kodo Millet KodaraVaragu,seed rate and seed treatment,38,7.867494824016563
+Kodo Millet KodaraVaragu,mausam ki jankari,36,7.453416149068323
+Kodo Millet KodaraVaragu,mausaam ke bare me bataye,30,6.211180124223603
+Kodo Millet KodaraVaragu,pleas give information of govt scheme,26,5.383022774327122
+Snake Gourd,information about pest management in bottle gourd,151,31.856540084388186
+Snake Gourd,aame ki pati kala ho raha hai,36,7.59493670886076
+Snake Gourd,dhan me ki kida laga hai,34,7.172995780590717
+Snake Gourd,potatao ki variety ki jankri,31,6.5400843881856545
+Snake Gourd,pls tell me control of flower dropping in chilli crop,20,4.219409282700422
+Indian Clover Senji Sweet Clover,pls tell me control of flower dropping in chilli crop,80,17.20430107526882
+Indian Clover Senji Sweet Clover,pleas give information of govt scheme,50,10.75268817204301
+Indian Clover Senji Sweet Clover,mosam ki jankari ki jankari,44,9.46236559139785
+Indian Clover Senji Sweet Clover,information about  mentha is planted in the crop,40,8.60215053763441
+Indian Clover Senji Sweet Clover,dhan ki kaun c kism ki buayi kare,34,7.311827956989248
+Methi Fenugreek,information about sowing time in any vegetable crop,55,11.879049676025918
+Methi Fenugreek,plant diseaseattack in crop,51,11.01511879049676
+Methi Fenugreek,tell me weed control in wheat crop,38,8.207343412526997
+Methi Fenugreek,pls tell me control of flower dropping in chilli crop,33,7.127429805615551
+Methi Fenugreek,seed rate and seed treatment,32,6.911447084233262
+Long Melon,pls tell me control of flower dropping in chilli crop,68,14.945054945054945
+Long Melon,insect control in  crops,53,11.648351648351648
+Long Melon,dhan ki kaun c kism ki buayi kare,45,9.89010989010989
+Long Melon,whet ki varieties,34,7.472527472527473
+Long Melon,dhan me ki kida laga hai,31,6.813186813186813
+Safflower kusumkardi,information about sowing time in any vegetable crop,78,17.25663716814159
+Safflower kusumkardi,dhan ki kaun c kism ki buayi kare,52,11.504424778761061
+Safflower kusumkardi,pls tell me control of flower dropping in chilli crop,49,10.84070796460177
+Safflower kusumkardi,whet ki varieties,40,8.849557522123893
+Safflower kusumkardi,seed rate and seed treatment,33,7.300884955752212
+"Colocasia (Arvi, Arbi)",farmer asked query on weather,85,19.187358916478555
+"Colocasia (Arvi, Arbi)",pls tell me control of flower dropping in chilli crop,80,18.058690744920995
+"Colocasia (Arvi, Arbi)",insect control in  crops,53,11.963882618510159
+"Colocasia (Arvi, Arbi)",plant diseaseattack in crop,49,11.060948081264108
+"Colocasia (Arvi, Arbi)",information about sowing time in any vegetable crop,38,8.577878103837472
+Tapioca Cassava,weather information,109,25.17321016166282
+Tapioca Cassava,ganne me keeda laga raha hai,42,9.699769053117784
+Tapioca Cassava,information about in sugarcane crop,42,9.699769053117784
+Tapioca Cassava,dhan ki kaun c kism ki buayi kare,27,6.235565819861432
+Tapioca Cassava,mausaam ke bare me bataye,25,5.773672055427252
+Jojoba,weather information,175,40.98360655737705
+Jojoba,seed rate and seed treatment,31,7.259953161592506
+Jojoba,mosam ki jankari ki jankari,28,6.557377049180328
+Jojoba,mausaam ke bare me bataye,17,3.9812646370023423
+Jojoba,dhan ki kaun c kism ki buayi kare,16,3.747072599531616
+Apple,pls tell me control of flower dropping in chilli crop,131,30.823529411764707
+Apple,pleas give information of govt scheme,31,7.294117647058823
+Apple,insect control in  crops,27,6.352941176470588
+Apple,plant diseaseattack in crop,26,6.11764705882353
+Apple,aame ki pati kala ho raha hai,16,3.7647058823529407
+Cardamom,pls tell me control of flower dropping in chilli crop,87,20.714285714285715
+Cardamom,dhan ki baliya nahi nikal rahi  hai kya kare,37,8.80952380952381
+Cardamom,dhan ki kaun c kism ki buayi kare,32,7.6190476190476195
+Cardamom,pleas give information of govt scheme,21,5.0
+Cardamom,plant diseaseattack in crop,20,4.761904761904762
+Lethyrus,mosam ki jankari ki jankari,81,19.37799043062201
+Lethyrus,potato me weediside ka prayog kiya hai plant such raha hai,38,9.090909090909092
+Lethyrus,dhan ki kaun c kism ki buayi kare,35,8.373205741626794
+Lethyrus,dhan ki baliya nahi nikal rahi  hai kya kare,32,7.655502392344498
+Lethyrus,aame ki pati kala ho raha hai,32,7.655502392344498
+Brackish,ask about animal husbandry information,174,42.23300970873786
+Brackish,mosam ki jankari ki jankari,85,20.631067961165048
+Brackish,pleas give information of govt scheme,33,8.009708737864079
+Brackish,mausaam ke bare me bataye,23,5.582524271844661
+Brackish,dhan ki baliya nahi nikal rahi  hai kya kare,21,5.097087378640777
+Brussils Sprouts,whet ki varieties,78,19.64735516372796
+Brussils Sprouts,mausam ki jankari,77,19.395465994962215
+Brussils Sprouts,pls tell me control of flower dropping in chilli crop,25,6.297229219143577
+Brussils Sprouts,dhan ki kaun c kism ki buayi kare,20,5.037783375314862
+Brussils Sprouts,dhan me ki kida laga hai,19,4.785894206549118
+Almond,pls tell me control of flower dropping in chilli crop,89,22.997416020671835
+Almond,farmer asked query on weather,42,10.852713178294573
+Almond,aame ki pati kala ho raha hai,31,8.010335917312661
+Almond,dhan ki kaun c kism ki buayi kare,22,5.684754521963824
+Almond,insect control in  crops,19,4.909560723514212
+Babool,pls tell me control of flower dropping in chilli crop,75,19.53125
+Babool,dhan ki kaun c kism ki buayi kare,44,11.458333333333332
+Babool,farmer asked query on weather,30,7.8125
+Babool,pleas give information of govt scheme,26,6.770833333333333
+Babool,dhan ki baliya nahi nikal rahi  hai kya kare,24,6.25
+Niger Ramtil,potatao ki variety ki jankri,43,11.345646437994723
+Niger Ramtil,dhan ki kaun c kism ki buayi kare,38,10.026385224274406
+Niger Ramtil,whet ki varieties,37,9.762532981530343
+Niger Ramtil,mosam ki jankari ki jankari,28,7.387862796833773
+Niger Ramtil,information about sowing time in any vegetable crop,21,5.540897097625329
+Flying Duck,mosam ki jankari ki jankari,98,26.13333333333333
+Flying Duck,ask about animal husbandry information,88,23.466666666666665
+Flying Duck,dhan ki kaun c kism ki buayi kare,62,16.53333333333333
+Flying Duck,for information regarding farmer registry,39,10.4
+Flying Duck,dhan ki baliya nahi nikal rahi  hai kya kare,22,5.866666666666666
+Baby Corn,weather information,55,15.027322404371585
+Baby Corn,mausam ki jankari,41,11.202185792349727
+Baby Corn,information about a variety of paddy,26,7.103825136612022
+Baby Corn,pls tell me control of flower dropping in chilli crop,21,5.737704918032787
+Baby Corn,pleas give information of govt scheme,18,4.918032786885246
+Chrysanthemum,weather information,84,23.26869806094183
+Chrysanthemum,pls tell me control of flower dropping in chilli crop,34,9.418282548476455
+Chrysanthemum,insect control in  crops,28,7.756232686980609
+Chrysanthemum,dhan ki kaun c kism ki buayi kare,21,5.8171745152354575
+Chrysanthemum,seed rate and seed treatment,16,4.43213296398892
+Buffel Grass Anjan Grass,ask about animal husbandry information,241,67.31843575418995
+Buffel Grass Anjan Grass,pleas give information of govt scheme,16,4.4692737430167595
+Buffel Grass Anjan Grass,mosam ki jankari ki jankari,14,3.910614525139665
+Buffel Grass Anjan Grass,dhan ki kaun c kism ki buayi kare,11,3.072625698324022
+Buffel Grass Anjan Grass,weather information,9,2.5139664804469275
+Kundru,pls tell me control of flower dropping in chilli crop,49,14.000000000000002
+Kundru,insect control in  crops,40,11.428571428571429
+Kundru,dhan ki kaun c kism ki buayi kare,33,9.428571428571429
+Kundru,aame ki pati kala ho raha hai,28,8.0
+Kundru,plant diseaseattack in crop,22,6.2857142857142865
+Coconut,pls tell me control of flower dropping in chilli crop,119,34.39306358381503
+Coconut,plant diseaseattack in crop,40,11.560693641618498
+Coconut,aame ki pati kala ho raha hai,28,8.092485549132949
+Coconut,dhan ki kaun c kism ki buayi kare,21,6.069364161849711
+Coconut,dhan ki baliya nahi nikal rahi  hai kya kare,19,5.491329479768786
+Olive,weather information,195,56.358381502890175
+Olive,give me weather information,14,4.046242774566474
+Olive,farmer asked query on weather,11,3.1791907514450863
+Olive,mausam ki jankari,9,2.601156069364162
+Olive,information about in mustard crop,9,2.601156069364162
+Dolichos Bean,insect control in  crops,64,19.27710843373494
+Dolichos Bean,dhan me ki kida laga hai,32,9.63855421686747
+Dolichos Bean,pls tell me control of flower dropping in chilli crop,31,9.33734939759036
+Dolichos Bean,plant diseaseattack in crop,30,9.036144578313253
+Dolichos Bean,aame ki pati kala ho raha hai,22,6.626506024096386
+Bush Squash,mausam ki jankari,51,15.36144578313253
+Bush Squash,pleas give information of govt scheme,37,11.144578313253012
+Bush Squash,mausaam ke bare me bataye,32,9.63855421686747
+Bush Squash,mosam ki jankari ki jankari,24,7.228915662650602
+Bush Squash,dhan ki kaun c kism ki buayi kare,19,5.72289156626506
+Spine Gourd,information about pest management in bottle gourd,78,24.0
+Spine Gourd,dhan ki kaun c kism ki buayi kare,42,12.923076923076923
+Spine Gourd,dhan me ki kida laga hai,18,5.538461538461538
+Spine Gourd,aame ki pati kala ho raha hai,17,5.230769230769231
+Spine Gourd,pls tell me control of flower dropping in chilli crop,17,5.230769230769231
+Bell Pepper,pls tell me control of flower dropping in chilli crop,34,10.725552050473187
+Bell Pepper,mausam ki jankari,27,8.517350157728707
+Bell Pepper,weather information,24,7.570977917981073
+Bell Pepper,pleas give information of govt scheme,19,5.993690851735016
+Bell Pepper,dhan ki baliya nahi nikal rahi  hai kya kare,17,5.3627760252365935
+Custard Apple,pls tell me control of flower dropping in chilli crop,118,37.69968051118211
+Custard Apple,aame ki pati kala ho raha hai,29,9.26517571884984
+Custard Apple,plant diseaseattack in crop,21,6.7092651757188495
+Custard Apple,insect control in  crops,19,6.070287539936102
+Custard Apple,information about nutrient management in crop,11,3.5143769968051117
+Leafy Vegetable,potatao ki variety ki jankri,41,13.898305084745763
+Leafy Vegetable,pls tell me control of flower dropping in chilli crop,26,8.813559322033898
+Leafy Vegetable,dhan ki kaun c kism ki buayi kare,25,8.47457627118644
+Leafy Vegetable,dhan me ki kida laga hai,22,7.457627118644068
+Leafy Vegetable,insect control in  crops,21,7.118644067796611
+Cotton (Kapas),farmer asked query on weather,166,56.655290102389074
+Cotton (Kapas),pls tell me control of flower dropping in chilli crop,24,8.19112627986348
+Cotton (Kapas),insect control in  crops,19,6.484641638225256
+Cotton (Kapas),information about sowing time in any vegetable crop,17,5.802047781569966
+Cotton (Kapas),whet ki varieties,17,5.802047781569966
+Kiwi Fruit,pls tell me control of flower dropping in chilli crop,108,37.11340206185567
+Kiwi Fruit,dhan ki baliya nahi nikal rahi  hai kya kare,23,7.903780068728522
+Kiwi Fruit,aame ki pati kala ho raha hai,21,7.216494845360824
+Kiwi Fruit,dhan ki kaun c kism ki buayi kare,21,7.216494845360824
+Kiwi Fruit,potatao ki variety ki jankri,15,5.154639175257731
+China Astor,weather information,84,28.965517241379313
+China Astor,mausam ki jankari,25,8.620689655172415
+China Astor,pleas give information of govt scheme,22,7.586206896551724
+China Astor,seed rate and seed treatment,20,6.896551724137931
+China Astor,aame ki pati kala ho raha hai,12,4.137931034482759
+Mulberry,pls tell me control of flower dropping in chilli crop,93,32.40418118466899
+Mulberry,aame ki pati kala ho raha hai,30,10.452961672473867
+Mulberry,insect control in  crops,22,7.665505226480835
+Mulberry,informaion about of wheat crop variety,21,7.317073170731707
+Mulberry,plant diseaseattack in crop,17,5.923344947735192
+Fig,pls tell me control of flower dropping in chilli crop,135,47.2027972027972
+Fig,insect control in  crops,21,7.3426573426573425
+Fig,aame ki pati kala ho raha hai,21,7.3426573426573425
+Fig,plant diseaseattack in crop,16,5.594405594405594
+Fig,pleas give information of govt scheme,11,3.8461538461538463
+Tumba,dhan ki kaun c kism ki buayi kare,28,10.181818181818182
+Tumba,dhan me ki kida laga hai,26,9.454545454545455
+Tumba,whet ki varieties,25,9.090909090909092
+Tumba,plant diseaseattack in crop,21,7.636363636363637
+Tumba,potatao ki variety ki jankri,20,7.2727272727272725
+Jute,weather information,73,26.642335766423358
+Jute,seed rate and seed treatment,25,9.124087591240876
+Jute,give me weather information,17,6.204379562043796
+Jute,dhan ki baliya nahi nikal rahi  hai kya kare,15,5.474452554744526
+Jute,pleas give information of govt scheme,15,5.474452554744526
+Sal Wood,pls tell me control of flower dropping in chilli crop,48,17.582417582417584
+Sal Wood,dhan ki kaun c kism ki buayi kare,36,13.186813186813188
+Sal Wood,pleas give information of govt scheme,32,11.72161172161172
+Sal Wood,insect control in  crops,23,8.424908424908425
+Sal Wood,dhan me ki kida laga hai,22,8.058608058608058
+Ivy Gourd,information about pest management in bottle gourd,90,33.210332103321036
+Ivy Gourd,pls tell me control of flower dropping in chilli crop,22,8.118081180811808
+Ivy Gourd,farmer asked query on weather,19,7.011070110701106
+Ivy Gourd,dhan ki kaun c kism ki buayi kare,16,5.904059040590406
+Ivy Gourd,aame ki pati kala ho raha hai,16,5.904059040590406
+Periwinkle,pleas give information of govt scheme,48,17.91044776119403
+Periwinkle,pls tell me control of flower dropping in chilli crop,40,14.925373134328357
+Periwinkle,mosam ki jankari ki jankari,30,11.194029850746269
+Periwinkle,information about sowing time in any vegetable crop,23,8.582089552238806
+Periwinkle,dhan ki kaun c kism ki buayi kare,22,8.208955223880597
+Betel Vine,pls tell me control of flower dropping in chilli crop,55,20.912547528517113
+Betel Vine,plant diseaseattack in crop,25,9.505703422053232
+Betel Vine,mosam ki jankari ki jankari,20,7.604562737642586
+Betel Vine,dhan ki kaun c kism ki buayi kare,18,6.844106463878327
+Betel Vine,pleas give information of govt scheme,18,6.844106463878327
+Jasmine,pls tell me control of flower dropping in chilli crop,54,20.610687022900763
+Jasmine,insect control in  crops,35,13.358778625954198
+Jasmine,plant diseaseattack in crop,28,10.687022900763358
+Jasmine,pleas give information of govt scheme,17,6.488549618320611
+Jasmine,aame ki pati kala ho raha hai,13,4.961832061068702
+Chinese Cabbage,dhan ki kaun c kism ki buayi kare,24,9.486166007905137
+Chinese Cabbage,potatao ki variety ki jankri,19,7.5098814229249005
+Chinese Cabbage,pls tell me control of flower dropping in chilli crop,19,7.5098814229249005
+Chinese Cabbage,pleas give information of govt scheme,17,6.719367588932807
+Chinese Cabbage,dhan ki baliya nahi nikal rahi  hai kya kare,17,6.719367588932807
+Moth Bean kidney bean deww gram,dhan ki kaun c kism ki buayi kare,21,8.60655737704918
+Moth Bean kidney bean deww gram,whet ki varieties,20,8.19672131147541
+Moth Bean kidney bean deww gram,dhan me ki kida laga hai,18,7.377049180327869
+Moth Bean kidney bean deww gram,insect control in  crops,15,6.147540983606557
+Moth Bean kidney bean deww gram,mosam ki jankari ki jankari,15,6.147540983606557
+Turkey,mosam ki jankari ki jankari,73,30.165289256198346
+Turkey,ask about animal husbandry information,40,16.528925619834713
+Turkey,for information regarding farmer registry,27,11.15702479338843
+Turkey,dhan ki kaun c kism ki buayi kare,24,9.917355371900827
+Turkey,dhan ki baliya nahi nikal rahi  hai kya kare,22,9.090909090909092
+Caleus,pls tell me control of flower dropping in chilli crop,54,22.5
+Caleus,mosam ki jankari ki jankari,29,12.083333333333334
+Caleus,pleas give information of govt scheme,26,10.833333333333334
+Caleus,dhan ki kaun c kism ki buayi kare,21,8.75
+Caleus,dhan ki baliya nahi nikal rahi  hai kya kare,20,8.333333333333332
+Turnip Saljam,information about sowing time in any vegetable crop,41,17.154811715481173
+Turnip Saljam,whet ki varieties,23,9.623430962343097
+Turnip Saljam,dhan ki kaun c kism ki buayi kare,23,9.623430962343097
+Turnip Saljam,pls tell me control of flower dropping in chilli crop,20,8.368200836820083
+Turnip Saljam,seed rate and seed treatment,13,5.439330543933055
+Gerbera,pleas give information of govt scheme,26,10.92436974789916
+Gerbera,dhan ki kaun c kism ki buayi kare,23,9.663865546218489
+Gerbera,dhan me ki kida laga hai,20,8.403361344537815
+Gerbera,pls tell me control of flower dropping in chilli crop,19,7.9831932773109235
+Gerbera,mosam ki jankari ki jankari,18,7.563025210084033
+Greater Yam,dhan ki kaun c kism ki buayi kare,27,11.440677966101696
+Greater Yam,pls tell me control of flower dropping in chilli crop,19,8.050847457627118
+Greater Yam,information about sowing time in any vegetable crop,19,8.050847457627118
+Greater Yam,potatao ki variety ki jankri,18,7.627118644067797
+Greater Yam,dhan me ki kida laga hai,18,7.627118644067797
+Carnation,weather information,36,15.254237288135593
+Carnation,mausam ki jankari,28,11.864406779661017
+Carnation,pls tell me control of flower dropping in chilli crop,16,6.779661016949152
+Carnation,potatao ki variety ki jankri,16,6.779661016949152
+Carnation,pleas give information of govt scheme,14,5.932203389830509
+Honey plant,mosam ki jankari ki jankari,66,28.205128205128204
+Honey plant,pls tell me control of flower dropping in chilli crop,30,12.82051282051282
+Honey plant,pleas give information of govt scheme,18,7.6923076923076925
+Honey plant,dhan ki kaun c kism ki buayi kare,18,7.6923076923076925
+Honey plant,information about sowing time in any vegetable crop,17,7.264957264957266
+Rajmash Bean,information about sowing time in any vegetable crop,33,14.224137931034484
+Rajmash Bean,dhan ki kaun c kism ki buayi kare,29,12.5
+Rajmash Bean,mosam ki jankari ki jankari,18,7.758620689655173
+Rajmash Bean,dhan ki baliya nahi nikal rahi  hai kya kare,15,6.4655172413793105
+Rajmash Bean,whet ki varieties,13,5.603448275862069
+Smooth Guard,information about pest management in bottle gourd,33,14.347826086956522
+Smooth Guard,dhan me ki kida laga hai,27,11.73913043478261
+Smooth Guard,dhan ki kaun c kism ki buayi kare,26,11.304347826086957
+Smooth Guard,aame ki pati kala ho raha hai,23,10.0
+Smooth Guard,insect control in  crops,13,5.6521739130434785
+Indian Squash TindaRound Melon,pls tell me control of flower dropping in chilli crop,30,13.100436681222707
+Indian Squash TindaRound Melon,insect control in  crops,26,11.353711790393014
+Indian Squash TindaRound Melon,information about sowing time in any vegetable crop,24,10.480349344978166
+Indian Squash TindaRound Melon,whet ki varieties,18,7.860262008733625
+Indian Squash TindaRound Melon,dhan ki kaun c kism ki buayi kare,16,6.986899563318777
+Pear,pls tell me control of flower dropping in chilli crop,80,35.714285714285715
+Pear,aame ki pati kala ho raha hai,18,8.035714285714286
+Pear,dhan ki kaun c kism ki buayi kare,13,5.803571428571429
+Pear,plant diseaseattack in crop,13,5.803571428571429
+Pear,whet ki varieties,12,5.357142857142857
+Indian Bean Vegetable,insect control in  crops,27,12.442396313364055
+Indian Bean Vegetable,pls tell me control of flower dropping in chilli crop,25,11.52073732718894
+Indian Bean Vegetable,dhan me ki kida laga hai,20,9.216589861751153
+Indian Bean Vegetable,dhan ki kaun c kism ki buayi kare,15,6.912442396313365
+Indian Bean Vegetable,aame ki pati kala ho raha hai,11,5.0691244239631335
+Drum Stick,pls tell me control of flower dropping in chilli crop,71,33.490566037735846
+Drum Stick,pleas give information of govt scheme,19,8.962264150943396
+Drum Stick,whet ki varieties,19,8.962264150943396
+Drum Stick,dhan ki kaun c kism ki buayi kare,14,6.60377358490566
+Drum Stick,for information regarding farmer registry,10,4.716981132075472
+Apricot,potato me weediside ka prayog kiya hai plant such raha hai,34,16.346153846153847
+Apricot,dhan me ki kida laga hai,31,14.903846153846153
+Apricot,aame ki pati kala ho raha hai,28,13.461538461538462
+Apricot,pls tell me control of flower dropping in chilli crop,24,11.538461538461538
+Apricot,dhan ki baliya nahi nikal rahi  hai kya kare,9,4.326923076923077
+Clove,information about nutrient management in crop,28,13.930348258706468
+Clove,pls tell me control of flower dropping in chilli crop,27,13.432835820895523
+Clove,plant diseaseattack in crop,17,8.45771144278607
+Clove,dhan ki kaun c kism ki buayi kare,12,5.970149253731343
+Clove,information about sowing time in any vegetable crop,12,5.970149253731343
+Pepper,pls tell me control of flower dropping in chilli crop,45,22.613065326633166
+Pepper,dhan ki patti pili padh rahi hai,20,10.050251256281408
+Pepper,dhan ki kaun c kism ki buayi kare,16,8.040201005025125
+Pepper,aame ki pati kala ho raha hai,11,5.527638190954774
+Pepper,information about sowing time in any vegetable crop,11,5.527638190954774
+Pineapple,pls tell me control of flower dropping in chilli crop,66,33.165829145728644
+Pineapple,aame ki pati kala ho raha hai,29,14.572864321608039
+Pineapple,dhan ki kaun c kism ki buayi kare,17,8.542713567839195
+Pineapple,information about sowing time in any vegetable crop,12,6.030150753768844
+Pineapple,dhan me ki kida laga hai,9,4.522613065326634
+Barley (Jau),farmer asked query on weather,52,26.53061224489796
+Barley (Jau),tell me weed control in wheat crop,39,19.897959183673468
+Barley (Jau),informaion about of wheat crop variety,32,16.3265306122449
+Barley (Jau),plant diseaseattack in crop,16,8.16326530612245
+Barley (Jau),information about fertilizer dose im wheat crop,15,7.653061224489796
+Spinach (Palak),farmer asked query on weather,69,35.9375
+Spinach (Palak),pls tell me control of flower dropping in chilli crop,25,13.020833333333334
+Spinach (Palak),information about sowing time in any vegetable crop,16,8.333333333333332
+Spinach (Palak),plant diseaseattack in crop,16,8.333333333333332
+Spinach (Palak),insect control in  crops,16,8.333333333333332
+Plum,pls tell me control of flower dropping in chilli crop,73,38.62433862433862
+Plum,aame ki pati kala ho raha hai,23,12.16931216931217
+Plum,insect control in  crops,11,5.82010582010582
+Plum,plant diseaseattack in crop,10,5.291005291005291
+Plum,information about sowing time in any vegetable crop,9,4.761904761904762
+Ash Gourd (Petha),information about pest management in bottle gourd,73,39.45945945945946
+Ash Gourd (Petha),farmer asked query on weather,33,17.83783783783784
+Ash Gourd (Petha),information about sowing time in any vegetable crop,19,10.27027027027027
+Ash Gourd (Petha),pls tell me control of flower dropping in chilli crop,13,7.027027027027027
+Ash Gourd (Petha),information about fertilizer dose im wheat crop,13,7.027027027027027
+Jatropha Ratanjot,pls tell me control of flower dropping in chilli crop,34,19.653179190751445
+Jatropha Ratanjot,dhan ki kaun c kism ki buayi kare,23,13.294797687861271
+Jatropha Ratanjot,mosam ki jankari ki jankari,19,10.982658959537572
+Jatropha Ratanjot,potatao ki variety ki jankri,19,10.982658959537572
+Jatropha Ratanjot,information about sowing time in any vegetable crop,12,6.9364161849710975
+Avacado,pls tell me control of flower dropping in chilli crop,37,21.38728323699422
+Avacado,dhan ki kaun c kism ki buayi kare,20,11.560693641618498
+Avacado,aame ki pati kala ho raha hai,18,10.404624277456648
+Avacado,dhan me ki kida laga hai,9,5.202312138728324
+Avacado,mausam ki jankari,9,5.202312138728324
+Mochai lab-lab,dhan ki baliya nahi nikal rahi  hai kya kare,13,7.602339181286549
+Mochai lab-lab,dhan ki kaun c kism ki buayi kare,12,7.017543859649122
+Mochai lab-lab,farmer asked query on weather,10,5.847953216374268
+Mochai lab-lab,mosam ki jankari ki jankari,9,5.263157894736842
+Mochai lab-lab,mausaam ke bare me bataye,9,5.263157894736842
+Raya (Indian Mustard),information about in mustard crop,73,42.69005847953216
+Raya (Indian Mustard),farmer asked query on weather,65,38.01169590643275
+Raya (Indian Mustard),insect control in  crops,6,3.508771929824561
+Raya (Indian Mustard),give information about weather forecast of blockbilsi in districtbudaun,5,2.923976608187134
+Raya (Indian Mustard),weather information distjhansi,4,2.3391812865497075
+Crossandra,weather information,36,21.052631578947366
+Crossandra,mosam ki jankari ki jankari,12,7.017543859649122
+Crossandra,insect control in  crops,9,5.263157894736842
+Crossandra,mausam ki jankari,9,5.263157894736842
+Crossandra,pls tell me control of flower dropping in chilli crop,9,5.263157894736842
+Loquat,plant portection in mango,32,19.631901840490798
+Loquat,aame ki pati kala ho raha hai,21,12.883435582822086
+Loquat,pls tell me control of flower dropping in chilli crop,18,11.042944785276074
+Loquat,dhan ki kaun c kism ki buayi kare,13,7.975460122699387
+Loquat,dhan ki baliya nahi nikal rahi  hai kya kare,10,6.134969325153374
+Cymbidium,mausaam ke bare me bataye,14,8.9171974522293
+Cymbidium,weather information,12,7.643312101910828
+Cymbidium,aame ki pati kala ho raha hai,11,7.006369426751593
+Cymbidium,dhan me ki kida laga hai,10,6.369426751592357
+Cymbidium,potatao ki variety ki jankri,9,5.7324840764331215
+Summer Squash Vegetable Marrow,pls tell me control of flower dropping in chilli crop,17,10.897435897435898
+Summer Squash Vegetable Marrow,information about sowing time in any vegetable crop,16,10.256410256410255
+Summer Squash Vegetable Marrow,aame ki pati kala ho raha hai,11,7.051282051282051
+Summer Squash Vegetable Marrow,insect control in  crops,11,7.051282051282051
+Summer Squash Vegetable Marrow,dhan me ki kida laga hai,9,5.769230769230769
+Winged Bean,mosam ki jankari ki jankari,18,11.688311688311687
+Winged Bean,dhan ki kaun c kism ki buayi kare,17,11.03896103896104
+Winged Bean,aame ki pati kala ho raha hai,15,9.740259740259742
+Winged Bean,dhan ki baliya nahi nikal rahi  hai kya kare,13,8.441558441558442
+Winged Bean,dhan me ki kida laga hai,9,5.844155844155844
+Guineafowl,mosam ki jankari ki jankari,64,42.95302013422819
+Guineafowl,dhan ki kaun c kism ki buayi kare,17,11.409395973154362
+Guineafowl,for information regarding farmer registry,12,8.053691275167784
+Guineafowl,ask about animal husbandry information,11,7.38255033557047
+Guineafowl,dhan ki baliya nahi nikal rahi  hai kya kare,10,6.7114093959731544
+Anthurium,dhan me ki kida laga hai,14,9.655172413793103
+Anthurium,dhan ki kaun c kism ki buayi kare,14,9.655172413793103
+Anthurium,insect control in  crops,13,8.96551724137931
+Anthurium,pls tell me control of flower dropping in chilli crop,13,8.96551724137931
+Anthurium,aame ki pati kala ho raha hai,10,6.896551724137931
+Walnut,pls tell me control of flower dropping in chilli crop,18,12.676056338028168
+Walnut,farmer asked query on weather,14,9.859154929577464
+Walnut,plant diseaseattack in crop,9,6.338028169014084
+Walnut,pleas give information of govt scheme,9,6.338028169014084
+Walnut,dhan me ki kida laga hai,9,6.338028169014084
+Rabbit,ask about animal husbandry information,43,30.28169014084507
+Rabbit,mosam ki jankari ki jankari,23,16.19718309859155
+Rabbit,dhan ki baliya nahi nikal rahi  hai kya kare,21,14.788732394366196
+Rabbit,dhan ki kaun c kism ki buayi kare,17,11.971830985915492
+Rabbit,pleas give information of govt scheme,9,6.338028169014084
+Ribbed Gourd (Kali Tori),information about pest management in bottle gourd,91,64.08450704225352
+Ribbed Gourd (Kali Tori),farmer asked query on weather,17,11.971830985915492
+Ribbed Gourd (Kali Tori),information about nutrient management in crop,8,5.633802816901409
+Ribbed Gourd (Kali Tori),dhan ki kaun c kism ki buayi kare,5,3.5211267605633805
+Ribbed Gourd (Kali Tori),plant diseaseattack in crop,4,2.8169014084507045
+Goose,mosam ki jankari ki jankari,43,31.851851851851855
+Goose,ask about animal husbandry information,18,13.333333333333334
+Goose,dhan ki kaun c kism ki buayi kare,15,11.11111111111111
+Goose,pleas give information of govt scheme,11,8.148148148148149
+Goose,for information regarding farmer registry,10,7.4074074074074066
+Roselle Mesta,weather information,28,21.374045801526716
+Roselle Mesta,seed rate and seed treatment,12,9.16030534351145
+Roselle Mesta,dhan ki kaun c kism ki buayi kare,11,8.396946564885496
+Roselle Mesta,pleas give information of govt scheme,8,6.106870229007633
+Roselle Mesta,mausaam ke bare me bataye,7,5.343511450381679
+Celery,weather information,21,16.153846153846153
+Celery,pls tell me control of flower dropping in chilli crop,14,10.76923076923077
+Celery,seed rate and seed treatment,14,10.76923076923077
+Celery,information about sowing time in any vegetable crop,13,10.0
+Celery,pleas give information of govt scheme,9,6.923076923076923
+Palmyra,pls tell me control of flower dropping in chilli crop,16,12.598425196850393
+Palmyra,insect control in  crops,14,11.023622047244094
+Palmyra,pleas give information of govt scheme,10,7.874015748031496
+Palmyra,dhan ki baliya nahi nikal rahi  hai kya kare,10,7.874015748031496
+Palmyra,plant diseaseattack in crop,9,7.086614173228346
+Sheep,ask about animal husbandry information,29,22.83464566929134
+Sheep,mosam ki jankari ki jankari,22,17.322834645669293
+Sheep,farmer asked query on weather,20,15.748031496062993
+Sheep,dhan ki kaun c kism ki buayi kare,17,13.385826771653544
+Sheep,dhan ki baliya nahi nikal rahi  hai kya kare,14,11.023622047244094
+Camel,ask about animal husbandry information,30,23.62204724409449
+Camel,mosam ki jankari ki jankari,19,14.960629921259844
+Camel,dhan ki kaun c kism ki buayi kare,18,14.173228346456693
+Camel,aame ki pati kala ho raha hai,15,11.811023622047244
+Camel,dhan ki baliya nahi nikal rahi  hai kya kare,12,9.448818897637794
+Yard Long Bean,pls tell me control of flower dropping in chilli crop,21,16.8
+Yard Long Bean,information about the plant protection in crop,16,12.8
+Yard Long Bean,insect control in  crops,10,8.0
+Yard Long Bean,whet ki varieties,8,6.4
+Yard Long Bean,information about sowing time in any vegetable crop,7,5.6000000000000005
+Chinar Tree,pls tell me control of flower dropping in chilli crop,12,9.75609756097561
+Chinar Tree,insect control in  crops,12,9.75609756097561
+Chinar Tree,dhan ki baliya nahi nikal rahi  hai kya kare,10,8.130081300813007
+Chinar Tree,mosam ki jankari ki jankari,9,7.317073170731707
+Chinar Tree,dhan ki kaun c kism ki buayi kare,9,7.317073170731707
+Indian rapeseed and mustard (yellow sarson),farmer asked query on weather,66,53.65853658536586
+Indian rapeseed and mustard (yellow sarson),information about in mustard crop,49,39.83739837398374
+Indian rapeseed and mustard (yellow sarson),information about nutrient management in crop,3,2.4390243902439024
+Indian rapeseed and mustard (yellow sarson),plant diseaseattack in crop,3,2.4390243902439024
+Indian rapeseed and mustard (yellow sarson),information about fertilizer dose im wheat crop,1,0.8130081300813009
+Knol-Khol,potatao ki variety ki jankri,13,10.743801652892563
+Knol-Khol,dhan ki kaun c kism ki buayi kare,13,10.743801652892563
+Knol-Khol,aame ki pati kala ho raha hai,10,8.264462809917356
+Knol-Khol,dhan ki baliya nahi nikal rahi  hai kya kare,8,6.6115702479338845
+Knol-Khol,dhan me ki kida laga hai,8,6.6115702479338845
+Cinnamon,pls tell me control of flower dropping in chilli crop,14,11.76470588235294
+Cinnamon,dhan ki kaun c kism ki buayi kare,12,10.084033613445378
+Cinnamon,mausaam ke bare me bataye,10,8.403361344537815
+Cinnamon,weather information,8,6.722689075630252
+Cinnamon,pleas give information of govt scheme,8,6.722689075630252
+Lilliums,pls tell me control of flower dropping in chilli crop,25,21.008403361344538
+Lilliums,dhan ki kaun c kism ki buayi kare,14,11.76470588235294
+Lilliums,mosam ki jankari ki jankari,8,6.722689075630252
+Lilliums,plant diseaseattack in crop,7,5.88235294117647
+Lilliums,for information regarding farmer registry,7,5.88235294117647
+DatePalm,pls tell me control of flower dropping in chilli crop,24,21.052631578947366
+DatePalm,aame ki pati kala ho raha hai,11,9.649122807017543
+DatePalm,information about sowing time in any vegetable crop,9,7.894736842105263
+DatePalm,plant diseaseattack in crop,8,7.017543859649122
+DatePalm,insect control in  crops,7,6.140350877192982
+Hazlenut,pls tell me control of flower dropping in chilli crop,19,16.8141592920354
+Hazlenut,aame ki pati kala ho raha hai,19,16.8141592920354
+Hazlenut,dhan ki kaun c kism ki buayi kare,10,8.849557522123893
+Hazlenut,pleas give information of govt scheme,8,7.079646017699115
+Hazlenut,mausam ki jankari,8,7.079646017699115
+Arecanut,farmer asked query on weather,20,18.181818181818183
+Arecanut,pls tell me control of flower dropping in chilli crop,11,10.0
+Arecanut,pleas give information of govt scheme,11,10.0
+Arecanut,dhan ki kaun c kism ki buayi kare,10,9.090909090909092
+Arecanut,dhan ki baliya nahi nikal rahi  hai kya kare,9,8.181818181818182
+Horse,ask about animal husbandry information,29,26.851851851851855
+Horse,aame ki pati kala ho raha hai,18,16.666666666666664
+Horse,dhan ki baliya nahi nikal rahi  hai kya kare,13,12.037037037037036
+Horse,mosam ki jankari ki jankari,13,12.037037037037036
+Horse,potatao ki variety ki jankri,10,9.25925925925926
+Tuberose,pls tell me control of flower dropping in chilli crop,23,21.904761904761905
+Tuberose,mosam ki jankari ki jankari,8,7.6190476190476195
+Tuberose,insect control in  crops,7,6.666666666666667
+Tuberose,information about sowing time in any vegetable crop,7,6.666666666666667
+Tuberose,dhan ki baliya nahi nikal rahi  hai kya kare,6,5.714285714285714
+Sunflower (suryamukhi),information about sowing time in any vegetable crop,41,41.41414141414141
+Sunflower (suryamukhi),whet ki varieties,14,14.14141414141414
+Sunflower (suryamukhi),seed rate and seed treatment,14,14.14141414141414
+Sunflower (suryamukhi),pls tell me control of flower dropping in chilli crop,11,11.11111111111111
+Sunflower (suryamukhi),farmer asked query on weather,10,10.1010101010101
+Little Millet (Samai/Kutki/kodo-kutki),farmer asked query on weather,71,74.73684210526315
+Little Millet (Samai/Kutki/kodo-kutki),whet ki varieties,5,5.263157894736842
+Little Millet (Samai/Kutki/kodo-kutki),seed rate and seed treatment,5,5.263157894736842
+Little Millet (Samai/Kutki/kodo-kutki),pleas give information of govt scheme,3,3.1578947368421053
+Little Millet (Samai/Kutki/kodo-kutki),insect control in  crops,2,2.1052631578947367
+Cashew,pls tell me control of flower dropping in chilli crop,19,20.652173913043477
+Cashew,dhan ki baliya nahi nikal rahi  hai kya kare,12,13.043478260869565
+Cashew,insect control in  crops,10,10.869565217391305
+Cashew,dhan ki kaun c kism ki buayi kare,10,10.869565217391305
+Cashew,mosam ki jankari ki jankari,5,5.434782608695652
+Mesta,mosam ki jankari ki jankari,13,14.444444444444443
+Mesta,dhan ki kaun c kism ki buayi kare,12,13.333333333333334
+Mesta,pls tell me control of flower dropping in chilli crop,10,11.11111111111111
+Mesta,aame ki pati kala ho raha hai,7,7.777777777777778
+Mesta,weather information,6,6.666666666666667
+Anjan Grass,farmer asked query on weather,17,19.318181818181817
+Anjan Grass,dhan ki kaun c kism ki buayi kare,11,12.5
+Anjan Grass,dhan me ki kida laga hai,11,12.5
+Anjan Grass,insect control in  crops,7,7.954545454545454
+Anjan Grass,mosam ki jankari ki jankari,4,4.545454545454546
+Coffee,pls tell me control of flower dropping in chilli crop,13,15.11627906976744
+Coffee,farmer asked query on weather,11,12.790697674418606
+Coffee,mosam ki jankari ki jankari,8,9.30232558139535
+Coffee,tell me weed control in wheat crop,7,8.13953488372093
+Coffee,dhan me ki kida laga hai,6,6.976744186046512
+Kaner,pls tell me control of flower dropping in chilli crop,14,16.666666666666664
+Kaner,insect control in  crops,12,14.285714285714285
+Kaner,aame ki pati kala ho raha hai,6,7.142857142857142
+Kaner,pleas give information of govt scheme,6,7.142857142857142
+Kaner,information about the plant protection in crop,6,7.142857142857142
+Sweet Cherry,pls tell me control of flower dropping in chilli crop,18,21.686746987951807
+Sweet Cherry,aame ki pati kala ho raha hai,10,12.048192771084338
+Sweet Cherry,insect control in  crops,8,9.63855421686747
+Sweet Cherry,dhan ki kaun c kism ki buayi kare,8,9.63855421686747
+Sweet Cherry,information about sowing time in any vegetable crop,5,6.024096385542169
+Cowpea (Vegetable),pls tell me control of flower dropping in chilli crop,22,26.506024096385545
+Cowpea (Vegetable),insect control in  crops,14,16.867469879518072
+Cowpea (Vegetable),whet ki varieties,9,10.843373493975903
+Cowpea (Vegetable),information about sowing time in any vegetable crop,9,10.843373493975903
+Cowpea (Vegetable),plant diseaseattack in crop,7,8.433734939759036
+Lucerne Alfalfa,seed rate and seed treatment,10,12.345679012345679
+Lucerne Alfalfa,information about sowing time in any vegetable crop,9,11.11111111111111
+Lucerne Alfalfa,whet ki varieties,8,9.876543209876543
+Lucerne Alfalfa,pls tell me control of flower dropping in chilli crop,8,9.876543209876543
+Lucerne Alfalfa,dhan me ki kida laga hai,6,7.4074074074074066
+Bhang Hemp Canabis,pls tell me control of flower dropping in chilli crop,17,20.98765432098765
+Bhang Hemp Canabis,pleas give information of govt scheme,12,14.814814814814813
+Bhang Hemp Canabis,dhan ki kaun c kism ki buayi kare,10,12.345679012345679
+Bhang Hemp Canabis,for information regarding farmer registry,5,6.172839506172839
+Bhang Hemp Canabis,potatao ki variety ki jankri,5,6.172839506172839
+Gobhi Sarson,mosam ki jankari ki jankari,11,13.580246913580247
+Gobhi Sarson,dhan ki kaun c kism ki buayi kare,7,8.641975308641975
+Gobhi Sarson,dhan ki baliya nahi nikal rahi  hai kya kare,7,8.641975308641975
+Gobhi Sarson,whet ki varieties,6,7.4074074074074066
+Gobhi Sarson,aame ki pati kala ho raha hai,6,7.4074074074074066
+Dinanath Grass,dhan ki kaun c kism ki buayi kare,9,12.5
+Dinanath Grass,seed rate and seed treatment,9,12.5
+Dinanath Grass,farmer asked query on weather,7,9.722222222222223
+Dinanath Grass,dhan ki baliya nahi nikal rahi  hai kya kare,5,6.944444444444445
+Dinanath Grass,weather information,4,5.555555555555555
+Rocket salad taramira,whet ki varieties,10,13.88888888888889
+Rocket salad taramira,dhan ki kaun c kism ki buayi kare,7,9.722222222222223
+Rocket salad taramira,asking about weather information,7,9.722222222222223
+Rocket salad taramira,mausam ki jankari,5,6.944444444444445
+Rocket salad taramira,seed rate and seed treatment,4,5.555555555555555
+Amarphophallus (Surankand/Elephant Foot Yam),information about sowing time in any vegetable crop,18,25.71428571428571
+Amarphophallus (Surankand/Elephant Foot Yam),seed rate and seed treatment,12,17.142857142857142
+Amarphophallus (Surankand/Elephant Foot Yam),plant diseaseattack in crop,11,15.714285714285714
+Amarphophallus (Surankand/Elephant Foot Yam),pls tell me control of flower dropping in chilli crop,6,8.571428571428571
+Amarphophallus (Surankand/Elephant Foot Yam),farmer asked query on weather,5,7.142857142857142
+Passion Fruit,pls tell me control of flower dropping in chilli crop,21,30.434782608695656
+Passion Fruit,aame ki pati kala ho raha hai,13,18.84057971014493
+Passion Fruit,dhan ki kaun c kism ki buayi kare,7,10.144927536231885
+Passion Fruit,dhan me ki kida laga hai,3,4.3478260869565215
+Passion Fruit,plant diseaseattack in crop,3,4.3478260869565215
+KolanchiTephrosia Purpurea,dhan ki kaun c kism ki buayi kare,13,19.402985074626866
+KolanchiTephrosia Purpurea,weather information,11,16.417910447761194
+KolanchiTephrosia Purpurea,pls tell me control of flower dropping in chilli crop,6,8.955223880597014
+KolanchiTephrosia Purpurea,potatao ki variety ki jankri,5,7.462686567164178
+KolanchiTephrosia Purpurea,tell me weed control in wheat crop,3,4.477611940298507
+Tea,pls tell me control of flower dropping in chilli crop,13,20.3125
+Tea,pleas give information of govt scheme,7,10.9375
+Tea,farmer asked query on weather,6,9.375
+Tea,dhan me ki kida laga hai,6,9.375
+Tea,dhan ki baliya nahi nikal rahi  hai kya kare,3,4.6875
+Dill Seed,information about sowing time in any vegetable crop,14,21.875
+Dill Seed,potatao ki variety ki jankri,4,6.25
+Dill Seed,mausaam ke bare me bataye,4,6.25
+Dill Seed,pleas give information of govt scheme,4,6.25
+Dill Seed,pls tell me control of flower dropping in chilli crop,4,6.25
+Lettuce,pls tell me control of flower dropping in chilli crop,13,20.967741935483872
+Lettuce,information about sowing time in any vegetable crop,6,9.67741935483871
+Lettuce,dhan ki baliya nahi nikal rahi  hai kya kare,5,8.064516129032258
+Lettuce,insect control in  crops,4,6.451612903225806
+Lettuce,whet ki varieties,4,6.451612903225806
+Lesser Yam Rafula,pls tell me control of flower dropping in chilli crop,8,12.903225806451612
+Lesser Yam Rafula,information about sowing time in any vegetable crop,7,11.29032258064516
+Lesser Yam Rafula,aame ki pati kala ho raha hai,5,8.064516129032258
+Lesser Yam Rafula,plant diseaseattack in crop,5,8.064516129032258
+Lesser Yam Rafula,whet ki varieties,4,6.451612903225806
+Guinea Grass,pls tell me control of flower dropping in chilli crop,12,19.35483870967742
+Guinea Grass,information about sowing time in any vegetable crop,6,9.67741935483871
+Guinea Grass,seed rate and seed treatment,5,8.064516129032258
+Guinea Grass,insect control in  crops,4,6.451612903225806
+Guinea Grass,whet ki varieties,4,6.451612903225806
+Lahsoda,pls tell me control of flower dropping in chilli crop,11,18.0327868852459
+Lahsoda,plant diseaseattack in crop,9,14.754098360655737
+Lahsoda,insect control in  crops,9,14.754098360655737
+Lahsoda,aame ki pati kala ho raha hai,6,9.836065573770492
+Lahsoda,mosam ki jankari ki jankari,5,8.19672131147541
+Runner Bean,insect control in  crops,9,15.254237288135593
+Runner Bean,pls tell me control of flower dropping in chilli crop,7,11.864406779661017
+Runner Bean,aame ki pati kala ho raha hai,7,11.864406779661017
+Runner Bean,dhan me ki kida laga hai,6,10.16949152542373
+Runner Bean,potatao ki variety ki jankri,3,5.084745762711865
+Snap Melon,pls tell me control of flower dropping in chilli crop,10,17.857142857142858
+Snap Melon,dhan me ki kida laga hai,7,12.5
+Snap Melon,insect control in  crops,5,8.928571428571429
+Snap Melon,dhan ki baliya nahi nikal rahi  hai kya kare,5,8.928571428571429
+Snap Melon,dhan ki patti pili padh rahi hai,3,5.357142857142857
+Pecan nut,dhan ki kaun c kism ki buayi kare,12,22.22222222222222
+Pecan nut,pls tell me control of flower dropping in chilli crop,11,20.37037037037037
+Pecan nut,aame ki pati kala ho raha hai,6,11.11111111111111
+Pecan nut,dhan me ki kida laga hai,4,7.4074074074074066
+Pecan nut,dhan ki patti pili padh rahi hai,4,7.4074074074074066
+Cocoa,pls tell me control of flower dropping in chilli crop,9,16.666666666666664
+Cocoa,dhan ki kaun c kism ki buayi kare,8,14.814814814814813
+Cocoa,insect control in  crops,4,7.4074074074074066
+Cocoa,weather information distjhansi,4,7.4074074074074066
+Cocoa,dhan ki baliya nahi nikal rahi  hai kya kare,3,5.555555555555555
+Marvel Grass,information about sowing time in any vegetable crop,11,20.754716981132077
+Marvel Grass,mausam ki jankari,5,9.433962264150944
+Marvel Grass,pleas give information of govt scheme,5,9.433962264150944
+Marvel Grass,seed rate and seed treatment,5,9.433962264150944
+Marvel Grass,dhan ki kaun c kism ki buayi kare,5,9.433962264150944
+lobia,dhan me ki kida laga hai,18,34.61538461538461
+lobia,potatao ki variety ki jankri,5,9.615384615384617
+lobia,potato me weediside ka prayog kiya hai plant such raha hai,5,9.615384615384617
+lobia,dhan ki baliya nahi nikal rahi  hai kya kare,4,7.6923076923076925
+lobia,aame ki pati kala ho raha hai,4,7.6923076923076925
+Bishops Weed,mosam ki jankari ki jankari,9,17.307692307692307
+Bishops Weed,weather information,9,17.307692307692307
+Bishops Weed,farmer asked query on weather,4,7.6923076923076925
+Bishops Weed,potatao ki variety ki jankri,3,5.769230769230769
+Bishops Weed,potato me weediside ka prayog kiya hai plant such raha hai,3,5.769230769230769
+Zentedeschia,pls tell me control of flower dropping in chilli crop,9,17.647058823529413
+Zentedeschia,dhan ki kaun c kism ki buayi kare,6,11.76470588235294
+Zentedeschia,pleas give information of govt scheme,6,11.76470588235294
+Zentedeschia,dhan me ki kida laga hai,6,11.76470588235294
+Zentedeschia,dhan ki baliya nahi nikal rahi  hai kya kare,5,9.803921568627452

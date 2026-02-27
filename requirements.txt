@@ -1,0 +1,23 @@
+# Data Processing and Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Machine Learning & Clustering
+scikit-learn>=1.3.0
+hdbscan>=0.8.33
+umap-learn>=0.5.4
+
+# Natural Language Processing
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+scipy>=1.11.0
+
+# Optional: For GPU support (uncomment if using CUDA)
+# torch>=2.0.0

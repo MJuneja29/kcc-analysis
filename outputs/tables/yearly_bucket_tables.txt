@@ -1,0 +1,327 @@
+
+QUERY BUCKET DISTRIBUTION - 2006
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                         95     84.82%
+Crop Production Practices                        12     10.71%
+Livestock & Dairy                                 3      2.68%
+Others                                            2      1.79%
+------------------------------------------------------------
+Total Processed                          112
+
+QUERY BUCKET DISTRIBUTION - 2007
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                         41     43.16%
+Crop Production Practices                        30     31.58%
+Machinery & Infrastructure                        7      7.37%
+Others                                            7      7.37%
+Markets & Post-Harvest                            5      5.26%
+Weather & Climate                                 4      4.21%
+Livestock & Dairy                                 1      1.05%
+------------------------------------------------------------
+Total Processed                          95
+
+QUERY BUCKET DISTRIBUTION - 2008
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                         84      54.9%
+Crop Production Practices                        20     13.07%
+Others                                           18     11.76%
+Markets & Post-Harvest                           17     11.11%
+Weather & Climate                                 9      5.88%
+Government Schemes & Insurance                    3      1.96%
+Livestock & Dairy                                 2      1.31%
+------------------------------------------------------------
+Total Processed                          153
+
+QUERY BUCKET DISTRIBUTION - 2009
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Others                                      235,774     39.94%
+Crop Protection & Inputs                    210,574     35.67%
+Crop Production Practices                    62,259     10.55%
+Weather & Climate                            35,207      5.96%
+Markets & Post-Harvest                       19,033      3.22%
+Livestock & Dairy                            14,436      2.45%
+Government Schemes & Insurance               11,611      1.97%
+Machinery & Infrastructure                    1,490      0.25%
+------------------------------------------------------------
+Total Processed                          590,384
+
+QUERY BUCKET DISTRIBUTION - 2010
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                    412,447     59.54%
+Crop Production Practices                   147,500     21.29%
+Others                                       49,008      7.08%
+Weather & Climate                            33,348      4.81%
+Markets & Post-Harvest                       25,447      3.67%
+Government Schemes & Insurance               10,428      1.51%
+Machinery & Infrastructure                    8,060      1.16%
+Livestock & Dairy                             6,380      0.92%
+Training, Nursery & Horticulture                 52      0.01%
+------------------------------------------------------------
+Total Processed                          692,670
+
+QUERY BUCKET DISTRIBUTION - 2011
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                    420,689     63.18%
+Crop Production Practices                   127,040     19.08%
+Others                                       46,835      7.03%
+Weather & Climate                            29,253      4.39%
+Markets & Post-Harvest                       22,610       3.4%
+Government Schemes & Insurance               10,079      1.51%
+Livestock & Dairy                             4,685       0.7%
+Machinery & Infrastructure                    4,655       0.7%
+Training, Nursery & Horticulture                  5       0.0%
+------------------------------------------------------------
+Total Processed                          665,851
+
+QUERY BUCKET DISTRIBUTION - 2012
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                    619,425      56.8%
+Crop Production Practices                   183,008     16.78%
+Others                                      105,063      9.63%
+Weather & Climate                           103,915      9.53%
+Markets & Post-Harvest                       50,698      4.65%
+Government Schemes & Insurance               17,312      1.59%
+Livestock & Dairy                             9,572      0.88%
+Machinery & Infrastructure                    1,483      0.14%
+------------------------------------------------------------
+Total Processed                          1,090,476
+
+QUERY BUCKET DISTRIBUTION - 2013
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                    843,486     42.26%
+Unclassified                                473,910     23.74%
+Crop Production Practices                   268,320     13.44%
+Weather & Climate                           200,536     10.05%
+Markets & Post-Harvest                       75,690      3.79%
+Others                                       63,862       3.2%
+Government Schemes & Insurance               37,605      1.88%
+Machinery & Infrastructure                   18,750      0.94%
+Livestock & Dairy                             8,906      0.45%
+Fisheries & Aquaculture                       2,912      0.15%
+Training, Nursery & Horticulture              1,863      0.09%
+------------------------------------------------------------
+Total Processed                          1,995,840
+
+QUERY BUCKET DISTRIBUTION - 2014
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                  1,014,837     37.92%
+Weather & Climate                           599,009     22.38%
+Unclassified                                564,075     21.08%
+Crop Production Practices                   305,495     11.42%
+Markets & Post-Harvest                       78,701      2.94%
+Government Schemes & Insurance               59,771      2.23%
+Machinery & Infrastructure                   32,655      1.22%
+Livestock & Dairy                             7,949       0.3%
+Fisheries & Aquaculture                       6,719      0.25%
+Others                                        5,062      0.19%
+Training, Nursery & Horticulture              1,866      0.07%
+------------------------------------------------------------
+Total Processed                          2,676,139
+
+QUERY BUCKET DISTRIBUTION - 2015
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                  1,452,613      39.2%
+Weather & Climate                         1,443,270     38.95%
+Crop Production Practices                   390,822     10.55%
+Government Schemes & Insurance              199,312      5.38%
+Markets & Post-Harvest                      153,828      4.15%
+Machinery & Infrastructure                   39,077      1.05%
+Others                                        9,704      0.26%
+Livestock & Dairy                             8,577      0.23%
+Fisheries & Aquaculture                       5,747      0.16%
+Training, Nursery & Horticulture              2,459      0.07%
+Unclassified                                     72       0.0%
+------------------------------------------------------------
+Total Processed                          3,705,481
+
+QUERY BUCKET DISTRIBUTION - 2016
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                         1,973,884     47.08%
+Crop Protection & Inputs                  1,302,231     31.06%
+Crop Production Practices                   508,323     12.12%
+Government Schemes & Insurance              214,805      5.12%
+Markets & Post-Harvest                      142,066      3.39%
+Machinery & Infrastructure                   22,192      0.53%
+Others                                       12,449       0.3%
+Livestock & Dairy                             8,214       0.2%
+Fisheries & Aquaculture                       4,677      0.11%
+Training, Nursery & Horticulture              3,933      0.09%
+------------------------------------------------------------
+Total Processed                          4,192,774
+
+QUERY BUCKET DISTRIBUTION - 2017
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                         2,223,893     55.55%
+Crop Protection & Inputs                    965,669     24.12%
+Crop Production Practices                   456,813     11.41%
+Government Schemes & Insurance              183,613      4.59%
+Markets & Post-Harvest                      122,379      3.06%
+Machinery & Infrastructure                   20,475      0.51%
+Livestock & Dairy                            12,091       0.3%
+Others                                       10,050      0.25%
+Fisheries & Aquaculture                       5,287      0.13%
+Training, Nursery & Horticulture              3,247      0.08%
+------------------------------------------------------------
+Total Processed                          4,003,517
+
+QUERY BUCKET DISTRIBUTION - 2018
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                         1,720,987     53.84%
+Crop Protection & Inputs                    677,652      21.2%
+Unclassified                                295,446      9.24%
+Crop Production Practices                   249,376       7.8%
+Government Schemes & Insurance              141,433      4.42%
+Markets & Post-Harvest                       81,186      2.54%
+Machinery & Infrastructure                   11,992      0.38%
+Others                                        7,035      0.22%
+Livestock & Dairy                             5,557      0.17%
+Training, Nursery & Horticulture              2,996      0.09%
+Fisheries & Aquaculture                       2,981      0.09%
+------------------------------------------------------------
+Total Processed                          3,196,641
+
+QUERY BUCKET DISTRIBUTION - 2019
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                         2,025,248     45.65%
+Crop Protection & Inputs                  1,287,076     29.01%
+Government Schemes & Insurance              595,374     13.42%
+Crop Production Practices                   353,249      7.96%
+Markets & Post-Harvest                      128,687       2.9%
+Machinery & Infrastructure                   16,767      0.38%
+Others                                       15,186      0.34%
+Livestock & Dairy                             5,403      0.12%
+Training, Nursery & Horticulture              5,209      0.12%
+Fisheries & Aquaculture                       4,471       0.1%
+------------------------------------------------------------
+Total Processed                          4,436,670
+
+QUERY BUCKET DISTRIBUTION - 2020
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                           916,249     33.07%
+Crop Protection & Inputs                    913,152     32.95%
+Government Schemes & Insurance              553,973     19.99%
+Crop Production Practices                   269,474      9.73%
+Markets & Post-Harvest                       85,860       3.1%
+Machinery & Infrastructure                   11,675      0.42%
+Others                                       10,231      0.37%
+Training, Nursery & Horticulture              4,379      0.16%
+Livestock & Dairy                             2,967      0.11%
+Fisheries & Aquaculture                       2,957      0.11%
+------------------------------------------------------------
+Total Processed                          2,770,917
+
+QUERY BUCKET DISTRIBUTION - 2021
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                           671,918     34.75%
+Crop Protection & Inputs                    608,833     31.49%
+Government Schemes & Insurance              345,164     17.85%
+Crop Production Practices                   211,660     10.95%
+Markets & Post-Harvest                       78,962      4.08%
+Machinery & Infrastructure                    6,342      0.33%
+Others                                        5,113      0.26%
+Training, Nursery & Horticulture              2,539      0.13%
+Livestock & Dairy                             1,647      0.09%
+Fisheries & Aquaculture                       1,377      0.07%
+------------------------------------------------------------
+Total Processed                          1,933,555
+
+QUERY BUCKET DISTRIBUTION - 2022
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                         1,133,949     34.53%
+Crop Protection & Inputs                    956,482     29.13%
+Government Schemes & Insurance              727,793     22.16%
+Crop Production Practices                   291,943      8.89%
+Markets & Post-Harvest                      148,458      4.52%
+Machinery & Infrastructure                   10,666      0.32%
+Others                                        6,838      0.21%
+Training, Nursery & Horticulture              3,292       0.1%
+Fisheries & Aquaculture                       2,483      0.08%
+Livestock & Dairy                             2,050      0.06%
+------------------------------------------------------------
+Total Processed                          3,283,954
+
+QUERY BUCKET DISTRIBUTION - 2023
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Weather & Climate                         1,366,202     39.88%
+Crop Protection & Inputs                    908,560     26.52%
+Government Schemes & Insurance              729,296     21.29%
+Crop Production Practices                   289,219      8.44%
+Markets & Post-Harvest                      108,198      3.16%
+Machinery & Infrastructure                   10,872      0.32%
+Others                                        6,965       0.2%
+Training, Nursery & Horticulture              3,218      0.09%
+Fisheries & Aquaculture                       1,873      0.05%
+Livestock & Dairy                             1,726      0.05%
+------------------------------------------------------------
+Total Processed                          3,426,129
+
+QUERY BUCKET DISTRIBUTION - 2024
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                  1,002,238     30.99%
+Weather & Climate                           908,354     28.09%
+Government Schemes & Insurance              708,234      21.9%
+Crop Production Practices                   504,165     15.59%
+Markets & Post-Harvest                       88,952      2.75%
+Machinery & Infrastructure                    8,504      0.26%
+Others                                        6,203      0.19%
+Training, Nursery & Horticulture              3,966      0.12%
+Livestock & Dairy                             1,964      0.06%
+Fisheries & Aquaculture                       1,481      0.05%
+------------------------------------------------------------
+Total Processed                          3,234,061
+
+QUERY BUCKET DISTRIBUTION - 2025
+------------------------------------------------------------
+Bucket                                        Count % of Total
+------------------------------------------------------------
+Crop Protection & Inputs                    435,199     27.51%
+Government Schemes & Insurance              429,078     27.13%
+Crop Production Practices                   359,051      22.7%
+Weather & Climate                           271,977     17.19%
+Markets & Post-Harvest                       55,103      3.48%
+Unclassified                                 18,945       1.2%
+Others                                        4,469      0.28%
+Machinery & Infrastructure                    4,323      0.27%
+Training, Nursery & Horticulture              1,881      0.12%
+Livestock & Dairy                             1,179      0.07%
+Fisheries & Aquaculture                         546      0.03%
+------------------------------------------------------------
+Total Processed                          1,581,751
