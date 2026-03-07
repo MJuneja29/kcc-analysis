@@ -1,0 +1,8 @@
+silhouette,davies_bouldin,calinski_harabasz,top_10_pct_coverage,median_cluster_size,noise_ratio_pct,total_clusters,experiment_id,duration_sec
+0.7458,0.322,2005214.27,68.92,118.0,7.82,495,FE_01_Baseline,35.85
+0.7261,0.3078,485641.44,71.91,115.0,7.0,486,FE_02_Char_N_Grams,22.16
+0.7659,0.319,1700867.82,64.01,121.0,10.23,526,FE_03_Length_Norm,19.48
+0.7550,0.3142,1888186.97,72.0,111.0,7.97,449,FE_04_Crop_Context,19.37
+0.7421,0.3256,1329435.74,67.05,124.5,11.45,504,FE_05_Metadata_Fusion,16.98
+0.7228,0.3404,1786174.07,67.63,122.0,10.69,503,FE_06_Kitchen_Sink,21.17
+0.7623,0.3165,2928420.34,67.34,116.0,8.51,512,FE_07_Combined_Features,35.75
