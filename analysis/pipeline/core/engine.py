@@ -259,8 +259,10 @@ class ClusteringPipeline:
                 n_neighbors=self.algorithm_params.get('umap_neighbors', 15), 
                 min_dist=0.0, 
                 n_components=self.umap_n_components, 
-                metric='cosine', # Changed from 'precomputed' because we are passing raw features now
-                random_state=42
+                metric='cosine',
+                random_state=42,
+                verbose=True,                          # prints stage-by-stage progress
+                tqdm_kwds={'desc': 'UMAP', 'leave': False}  # progress bar during layout optimisation
             )
             try:
                 clustering_input = umap_model.fit_transform(input_for_clustering)
