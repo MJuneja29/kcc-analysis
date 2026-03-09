@@ -114,7 +114,7 @@ def main():
                 }
             },
             {
-                "name": "Exp 4: God Mode (HDBSCAN + Length + Metadata Fusion)",
+                "name": "Exp 4: HDBSCAN + Multi-Feature Fusion (LLM + Length + Metadata)",
                 "desc": "The ultimate Early Fusion: Concatenates LLM sentence vectors, sentence length traits, and State/Season one-hot metadata.",
                 "config": {
                     "model_name": 'all-MiniLM-L6-v2', "alpha": 0.5, "algorithm": 'hdbscan', 
@@ -174,13 +174,15 @@ def main():
                     'Description': exp['desc'],
                     'Queries_Processed': unique_vol,
                     'Silhouette_Score': round(metrics.get('silhouette', 0), 4),
+                    'Davies_Bouldin': round(metrics.get('davies_bouldin', 0), 4),
+                    'Calinski_Harabasz': round(metrics.get('calinski_harabasz', 0), 2),
                     'Noise_Ratio_Pct': round(metrics.get('noise_ratio_pct', 0), 2),
                     'Top_10_Pct_Coverage': round(metrics.get('top_10_pct_coverage', 0), 2),
                     'Total_Clusters': metrics.get('total_clusters', 0),
                     'Execution_Time_Sec': round(duration_sec, 2)
                 })
                 
-                print(f"     [SUCCESS] Time: {round(duration_sec, 2)}s | Silhouette: {round(metrics.get('silhouette', 0), 2)} | Noise: {round(metrics.get('noise_ratio_pct', 0), 2)}%")
+                print(f"     [SUCCESS] Time: {round(duration_sec, 2)}s | Silhouette: {round(metrics.get('silhouette', 0), 2)} | DB: {round(metrics.get('davies_bouldin', 0), 2)} | CH: {round(metrics.get('calinski_harabasz', 0), 0)} | Noise: {round(metrics.get('noise_ratio_pct', 0), 2)}%")
                 
             except Exception as e:
                 print(f"     [FAILED] Algorithm Crashed contextually: {e}")
@@ -191,10 +193,62 @@ def main():
     if all_results:
         results_df = pd.DataFrame(all_results)
         
-        # Sort output by Crop name alphabetically, and then rank by Highest Silhouette Score 
-        results_df = results_df.sort_values(by=['Crop', 'Silhouette_Score'], ascending=[True, False])
+        # Sort output by Crop name alphabetically, and then rank by Highest Silhouette, Lowest DB, Highest CH
+        results_df = results_df.sort_values(by=['Crop', 'Silhouette_Score', 'Davies_Bouldin', 'Calinski_Harabasz'], ascending=[True, False, True, False])
         results_df.to_csv(out_csv, index=False)
         
+        # -------------------------------------------------------------------------
+        # 5. GENERATE SCATTER PLOT
+        # -------------------------------------------------------------------------
+        import matplotlib.pyplot as plt
+        import seaborn as sns
+        
+        try:
+            plt.figure(figsize=(14, 8))
+            sns.set_theme(style="whitegrid")
+            
+            # Scatter Plot: Noise Ratio on X (Lower is better), Silhouette on Y (Higher is better)
+            # using 'jitter' by using stripplot OR simply adjust markers
+            # Since seaborn scatterplot might overlap, we can use an Alpha or jitter
+            
+            ax = sns.scatterplot(
+                data=results_df, 
+                x="Noise_Ratio_Pct", 
+                y="Silhouette_Score", 
+                hue="Experiment", 
+                style="Crop",
+                s=200,          # Size of markers
+                alpha=0.8,      # Slight transparency to see overlaps
+                palette="tab10" # Distinct colors
+            )
+            
+            # To further prevent overlap, we can add labels with a slight offset
+            from adjustText import adjust_text
+            texts = []
+            for _, row in results_df.iterrows():
+                # We can put a tiny crop initial to help see exactly what point is what
+                texts.append(ax.text(row['Noise_Ratio_Pct'], row['Silhouette_Score'], row['Crop'][:2], fontsize=8, alpha=0.7))
+                
+            try:
+                adjust_text(texts, arrowprops=dict(arrowstyle="-", color='gray', lw=0.5))
+            except Exception:
+                pass # If adjustText library is not installed, fail silently and just leave text where it is
+                
+            plt.title('Algorithm Performance Benchmark\n(Top Left is Best: High Cohesion, Low Data Loss)', fontsize=16, pad=15)
+            plt.xlabel('Noise Ratio % (Queries thrown away)', fontsize=12)
+            plt.ylabel('Silhouette Score (Cluster Cohersion, -1 to 1)', fontsize=12)
+            
+            # Move legend outside to keep it extremely clean
+            plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', borderaxespad=0.)
+            plt.tight_layout()
+            
+            plot_path = out_dir / 'top_5_algorithm_scatter_plot.png'
+            plt.savefig(plot_path, dpi=300, bbox_inches='tight')
+            print(f"\n  > Saved Scatter Plot to: {plot_path}")
+            plt.close()
+        except Exception as e:
+            print(f"  > Plotting failed: {e}")
+            
         print(f"\n=============================================")
         print(f" ALL 5 EXPERIMENTS FINISHED FOR TOP 5 CROPS.")
         print(f" The scorecard matrix was written to: \n {out_csv}")
